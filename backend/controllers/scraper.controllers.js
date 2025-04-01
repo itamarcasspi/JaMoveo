@@ -115,9 +115,11 @@ export const songList = async (req, res) => {
     const searchUrl = `https://www.tab4u.com/resultsSimple?tab=songs&q=${query}`;
     const searchResponse = await axios.get(searchUrl, {
       headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-      },
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.tab4u.com/",
+        "Connection": "keep-alive"
+      }
     });
     const $search = cheerio.load(searchResponse.data);
 
@@ -158,21 +160,3 @@ export const songList = async (req, res) => {
   }
 };
 
-// function extractSongTables(html) {
-//   const $ = cheerio.load(html);
-//   const songTables = [];
-
-//   $("table").each((i, table) => {
-//     const tableData = [];
-//     $(table)
-//       .find("tr")
-//       .each((j, row) => {
-//         const rowData = {};
-//         rowData.chords = $(row).find(".chords_en").html();
-//         rowData.song = $(row).find(".song").text().trim();
-//         tableData.push(rowData);
-//       });
-//     songTables.push(tableData);
-//   });
-//   return songTables;
-// }
