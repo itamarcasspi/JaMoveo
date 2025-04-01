@@ -9,7 +9,7 @@ const useSearch = () => {
   const search = async (_search) => {
     setLoading(true);
     try {
-      const res = await fetch(`http://localhost:5000/api/search/songList/?query=${_search}`, {
+      const res = await fetch(`/api/search/songList/?query=${_search}`, {
         method: "GET",
         headers: { "Content-Type": "application/json" },
       });

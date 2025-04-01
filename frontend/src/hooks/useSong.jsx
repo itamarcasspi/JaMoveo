@@ -17,7 +17,7 @@ const useSong = () => {
     setLoading(true);
     const isSinger = authUser.instrument == "singer";
     try {
-      const res = await fetch(`http://localhost:5000/api/search/getSong/?songLink=${songData}&singer=${isSinger}`, {
+      const res = await fetch(`/api/search/getSong/?songLink=${songData}&singer=${isSinger}`, {
         method: "GET",
         headers: { "Content-Type": "application/json" },
       });
