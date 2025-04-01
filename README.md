@@ -1,8 +1,33 @@
-# JaMoveo - Moveo Band Web Application
+*# JaMoveo - Moveo Band Web Application
 
 ## Project Description
 
 JaMoveo is a web application designed to enhance the musical rehearsal experience for the Moveo band. It allows band members to log in, specify their instruments, and participate in rehearsal sessions controlled by an admin. The admin can search for songs, display chords and lyrics, and manage the flow of the rehearsal.
+
+## Deployment
+
+Currently deployed at @render.
+
+[Deplyment Link Here.](https://jamoveo-qvvw.onrender.com)
+
+## Demo
+
+1. Player reistration:
+
+    ![player-screen](https://github.com/user-attachments/assets/797b8d7a-3fd0-4ee2-b413-e9d8dc68663b)
+
+2. Admin registration:
+
+   ![admin-screen](https://github.com/user-attachments/assets/c781f84b-58d6-4c4c-81ff-82e2b985bf27)
+3. Admin search:
+   * Search function only available to admin. Song list data retrieved by web scraping using Axios API.
+
+   ![search_double](https://github.com/user-attachments/assets/ff765f1f-7b79-4ffd-90ac-c111c18dd20d)
+4. Session start:
+   * Session start function only available to admin. The song data itself is retrieved by web scraping as well.
+   * Checkbox auto scroll toggle with added custom scroll speed input.
+   * Admin can terminate session to all connected users.
+   ![session_double](https://github.com/user-attachments/assets/de833738-a5f0-47ea-bfa2-813c412dafef)
 
 ## Features
 
@@ -45,26 +70,33 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
 
 1. **Clone the Repository:**
 
-    ```bash
-    git clone 
-    cd 
-    ```
+    Open terminal and use the following commands:
+
+      ```bash
+      git clone https://github.com/itamarcasspi/JaMoveo.git
+      cd JaMoveo
+      ```
 
 2. **Install Dependencies:**
 
-    * For the root directory:
+    From the root directory, use the npm build command, which will install all dependencies and build the app:
 
-        ```bash
-        npm build
-        ```
+      ```bash
+      npm run build
+      ```
 
 3. **Configure Environment Variables:**
 
-    * Create a `.env` file in the backend directory and add necessary environment variables (e.g., database connection strings, port numbers).
+    * Create a `.env` file in the root directory and add necessary environment variables (e.g., database connection strings, port numbers). Choose an open port, get your MONGODB_URI address, and generate a JWT secret.
+
+      1. PORT=
+      2. MONGODB_URI=
+      3. JWT_SECRET=
+      4. NODE_ENV=dev
 
 4. **Run the Application:**
 
-    * Start the backend server:
+    * Start the backend server, which will handle the frontend page access as well.
 
         ```bash
         npm run start
@@ -72,7 +104,8 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
 
 5. **Access the Application:**
 
-    * Open your browser and navigate to the appropriate URL (usually `http://localhost:5000` for development).
+    * Open your browser and navigate to localhost.
+    * NOTE: for deployment purposes SocketContext address and Socket server adress were hardcoded. To host locally change to your localhost adress with the open port.
 
 ## User Registration and Login
 
@@ -107,9 +140,10 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
 2. **Admin song search**
    * Using the Admin's interface search for a song.
    * The application API's uses scraping methods to crawl Tab4U for "live" data.
-   * 
-3. 
+   *
+3.
   
 ## Author
 
 * Itamar casspi
+*

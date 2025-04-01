@@ -10,6 +10,8 @@ import CheckBox from "../components/CheckBox";
 import useSession from "../hooks/useSession";
 import useSong from "../hooks/useSong";
 
+import lyrics from "../constants/wonderwall.json"
+
 export default function LivePage() {
   const { authUser } = useAuthContext();
   const { sessionData } = useSocketContext();
@@ -87,7 +89,7 @@ export default function LivePage() {
         </div>
         <div className="pt-36 flex flex-col items-center text-2xl py-8">
           <div className="ml-4 mr-4 py-8 block max-w-full whitespace-nowrap text-[min(8vw,3rem)] w-fit">
-            {songData.map((line, index) => {
+            {songData.length > 0 ?  songData.map((line, index) => {
               return (
                 <p
                   className="whitespace-nowrap text-[3.5vw] w-full  scale-[1] origin-left"
@@ -96,7 +98,19 @@ export default function LivePage() {
                   {line}
                 </p>
               );
-            })}
+            }) : songData.map((line, index) => {
+              return (
+                <p
+                  className="whitespace-nowrap text-[3.5vw] w-full  scale-[1] origin-left"
+                  key={index}
+                >
+                  {line}
+                </p>
+              );}
+            
+              
+            )}
+            
           </div>
         </div>
       </div>
