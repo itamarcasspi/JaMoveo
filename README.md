@@ -7,49 +7,50 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
 ## Features
 
 * **Registration & Authentication:**
-    * Signup page for users to create accounts (username, password, instrument).
-    * Login page for user and admin authentication.
+  * Signup page for users to create accounts (username, password, instrument).
+  * Login page for user and admin authentication.
 * **Admin Control:**
-    * Admin-specific registration.
-    * Song search functionality (English and Hebrew).
-    * Song selection from search results.
-    * "Quit" button to end the rehearsal session for all users.
+  * Admin-specific registration.
+  * Song search functionality (English and Hebrew).
+  * Song selection from search results.
+  * "Quit" button to end the rehearsal session for all users.
 * **Live Rehearsal Display:**
-    * Song title and artist display.
-    * Lyrics-only view for singers.
-    * Lyrics and chords view for instrumentalists.
-    * Automatic custom scrolling.
-    * High contrast and large font for readability.
+  * Song title and artist display.
+  * Lyrics-only view for singers.
+  * Lyrics and chords view for instrumentalists.
+  * Automatic custom scrolling.
+  * High contrast and large font for readability.
 * **Socket.IO Integration:**
-    * Real-time communication between admin and players.
+  * Real-time communication between admin and players.
 * **Song Database:**
-    * Uses web scraping from Tabs4U to get dynamic song data.
+  * Uses web scraping from Tabs4U to get dynamic song data.
+
 ## Technologies Used
 
 * **Frontend:**
-    * React
-    * TailwindCSS
-    * Socket.io-client
+  * React
+  * TailwindCSS
+  * Socket.io-client
 * **Backend:**
-    * Nodejs
-    * Express
-    * Socket.io
+  * Nodejs
+  * Express
+  * Socket.io
 
 * **Database:**
-    * MongoDB
+  * MongoDB
 * **Deployment:**
-    * Render
+  * Render
 
 ## Setup Instructions
 
-1.  **Clone the Repository:**
+1. **Clone the Repository:**
 
     ```bash
     git clone 
     cd 
     ```
 
-2.  **Install Dependencies:**
+2. **Install Dependencies:**
 
     * For the root directory:
 
@@ -57,13 +58,11 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
         npm build
         ```
 
-
-
-3.  **Configure Environment Variables:**
+3. **Configure Environment Variables:**
 
     * Create a `.env` file in the backend directory and add necessary environment variables (e.g., database connection strings, port numbers).
 
-4.  **Run the Application:**
+4. **Run the Application:**
 
     * Start the backend server:
 
@@ -71,22 +70,22 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
         npm run start
         ```
 
-5.  **Access the Application:**
+5. **Access the Application:**
 
     * Open your browser and navigate to the appropriate URL (usually `http://localhost:5000` for development).
 
 ## User Registration and Login
 
 * **Regular User:**
-    * Navigate to the signup page.
-    * Enter a username, password, and instrument.
-    * Click "Register."
-    * Use the same credentials to log in on the login page.
+  * Navigate to the signup page.
+  * Enter a username, password, and instrument.
+  * Click "Register."
+  * Use the same credentials to log in on the login page.
 * **Admin User:**
-    * Navigate to the admin registration page through the interface.
-    * Enter a username and password.
-    * Click "Register."
-    * Use the same credentials to log in on the login page.
+  * Navigate to the admin registration page through the interface.
+  * Enter a username and password.
+  * Click "Register."
+  * Use the same credentials to log in on the login page.
 
 ## Deployment
 
@@ -98,6 +97,13 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
 * The application also includes a bonus feature to crawl song data from Tab4U.
 * This feature is integrated into the song search functionality.
 
+## Testing
+
+  1. **Multiple users registration and login:**
+*  Register as an admin, and multiple users (one should be a singer to test chordless output).
+*  Login through several Incognito browsers to be able to log to several accounts (This is to bypass local storage )
+  2. 
+  
 
 ## Author
 
