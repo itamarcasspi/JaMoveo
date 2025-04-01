@@ -68,7 +68,7 @@ export const linkToData = async (req, res) => {
     if (!songLyrics) {
       return res.status(404).json({ error: "chords or lyrics not found" });
     }
-    res.json({ songLyrics });
+    res.status(200).json({ songLyrics });
     // res.json({lyrics,chords});
   } catch (error) {
     // console.error("Error scraping:", error);
@@ -122,9 +122,6 @@ export const songList = async (req, res) => {
       })
       .get();
 
-    // const songNames = $search(".sNameI19").text();
-    // const artistNames = $search(".aNameI19").text();
-
     const songNames = [];
     const artistNames = [];
 
@@ -143,12 +140,12 @@ export const songList = async (req, res) => {
       artistNames[index],
       songLinks[index],
     ]);
-
-    if (!songNames || !artistNames) {
+    console.log("found songs:",songArtistPairs);
+    if (!songArtistPairs) {
       return res.status(404).json({ error: "Song not found" });
     }
 
-    res.json({ songArtistPairs});
+    res.status(200).json({ songArtistPairs});
     // res.json({lyrics,chords});
   } catch (error) {
     console.error("Error scraping:", error);

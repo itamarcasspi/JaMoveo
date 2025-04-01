@@ -21,6 +21,7 @@ const AdminResults = () => {
   useEffect(() => {
     async function fetchResults() {
       const results = await search(query);
+      
       setResultsArray(results.songArtistPairs);
     }
 

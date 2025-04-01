@@ -105,6 +105,10 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
    * Login through several Incognito browsers to be able to log to several accounts (This is to bypass local storage )
 
 2. **Admin song search**
+   * Using the Admin's interface search for a song.
+   * The application API's uses scraping methods to crawl Tab4U for "live" data.
+   * 
+3. 
   
 ## Author
 
