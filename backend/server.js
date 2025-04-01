@@ -18,12 +18,13 @@ connectToMongoDB();
 
 const PORT = process.env.PORT;
 
+const DEPLOY_URL = process.env.DEPLOYURL || 'http://localhost:5173';
 
 app.use(express.static(path.join(__dirname,"/frontend/dist")));
 
 app.use(express.json());
 app.use(cors({
-    origin:'http://localhost:5173',
+    origin: DEPLOY_URL,
 }));
 app.use("/api/auth",authRoutes);
 app.use("/api/search",scraperRoutes);
