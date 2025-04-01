@@ -18,7 +18,7 @@ connectToMongoDB();
 
 const PORT = process.env.PORT;
 
-// const DEPLOY_URL = "https://jamoveo-qvvw.onrender.com/";
+const DEPLOY_URL = process.env.DEPLOY_URL;
 
 app.use(express.static(path.join(__dirname,"/frontend/dist")));
 
