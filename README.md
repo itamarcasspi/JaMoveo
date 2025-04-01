@@ -99,12 +99,13 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
 
 ## Testing
 
-  1. **Multiple users registration and login:**
-*  Register as an admin, and multiple users (one should be a singer to test chordless output).
-*  Login through several Incognito browsers to be able to log to several accounts (This is to bypass local storage )
-  2. 
-  
+1. **Multiple users registration and login:**
 
+   * Register as an admin, and multiple users (one should be a singer to test chordless output).
+   * Login through several Incognito browsers to be able to log to several accounts (This is to bypass local storage )
+
+2. **Admin song search**
+  
 ## Author
 
 * Itamar casspi
