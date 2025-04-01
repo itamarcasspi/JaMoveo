@@ -18,7 +18,7 @@ connectToMongoDB();
 
 const PORT = process.env.PORT;
 
-const DEPLOY_URL = process.env.DEPLOYURL || 'http://localhost:5173';
+export const DEPLOY_URL = process.env.DEPLOYURL || 'http://localhost:5173';
 
 app.use(express.static(path.join(__dirname,"/frontend/dist")));
 

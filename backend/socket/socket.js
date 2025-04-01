@@ -1,10 +1,9 @@
 import { Server } from "socket.io";
 import http from "http";
 import express from "express";
+import { DEPLOY_URL } from "../server";
 
 const app = express();
-
-const DEPLOY_URL = process.env.DEPLOYURL || 'http://localhost:5173';
 
 const server = http.createServer(app);
 const io = new Server(server, {
