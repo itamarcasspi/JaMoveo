@@ -17,6 +17,8 @@ import LivePage from "./pages/LivePage.jsx";
 import LiveRoute from "../role_routing/live_route.jsx";
 import ResultRoute from "../role_routing/admin_result_route.jsx";
 
+import toast,{ Toaster } from "react-hot-toast";
+
 function App() {
   const { authUser } = useAuthContext();
 
@@ -52,7 +54,14 @@ function App() {
           path="/admin-signup"
           element={authUser ? <Navigate to="/" /> : <AdminSignup></AdminSignup>}
         />
-        <Route path="/admin-result" element={<ResultRoute><AdminResults/></ResultRoute> } />
+        <Route
+          path="/admin-result"
+          element={
+            <ResultRoute>
+              <AdminResults />
+            </ResultRoute>
+          }
+        />
         <Route
           path="/live-page"
           element={
@@ -62,6 +71,7 @@ function App() {
           }
         />
       </Routes>
+      <Toaster />
     </div>
   );
 }

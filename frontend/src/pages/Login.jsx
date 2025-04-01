@@ -5,6 +5,8 @@ import useLogin from "../hooks/useLogin";
 import { LogIn, Loader } from "lucide-react";
 import { LoginLogo } from "../assets";
 
+import toast, { Toaster } from "react-hot-toast";
+
 export default function CustomLogin() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -13,7 +15,12 @@ export default function CustomLogin() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    await login({ username, password });
+    try {
+      await login({ username, password });
+    } catch (error) {
+      toast.error("Invalid credentials");
+
+    }
   };
 
   return (
@@ -75,26 +82,23 @@ export default function CustomLogin() {
                 </button>
               )}
             </div>
-
-            
           </form>
           <div className="text-center text-sm text-gray-500">
-              Don't have an account?{" "}sign up as{" "}
-              <a
-                href="/signup"
-                className="text-indigo-600 hover:text-indigo-700 font-medium"
-              >
-                Player
-              </a>
-              <span> or </span>
-              <a
-                href="/admin-signup"
-                className="text-indigo-600 hover:text-indigo-700 font-medium"
-              >
-                Admin
-              </a>
-            </div>
-            
+            Don't have an account? sign up as{" "}
+            <a
+              href="/signup"
+              className="text-indigo-600 hover:text-indigo-700 font-medium"
+            >
+              Player
+            </a>
+            <span> or </span>
+            <a
+              href="/admin-signup"
+              className="text-indigo-600 hover:text-indigo-700 font-medium"
+            >
+              Admin
+            </a>
+          </div>
         </div>
       </div>
     </div>
