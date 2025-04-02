@@ -6,8 +6,36 @@ JaMoveo is a web application designed to enhance the musical rehearsal experienc
 
 ## Deployment
 
-Deployed using Render services- server might spindown on inactivity causing slower reaction on first login.
+Application deployed as a monolithic architecture using Render deployment service. Check out the link to try the app for your self.
 [Deployed Application Link here](https://jamoveo-qvvw.onrender.com/)
+
+## Testing
+
+To check out the application's features please follow the steps below:
+
+1. **Multiple users registration and login:**
+
+   * Register as an admin, and as several users with various instruments. (One should be a singer to see the chordless song version).
+   * Login through several Incognito browsers to be able to log to several accounts (This is to bypass local storage )
+
+2. **Admin song search**
+   * Using the Admin's interface search for a song.
+   * Write your search querie while the other accounts are logged and waiting.
+  
+3. **Admin search result page**
+   * After searching for a song, you will see all avaiable songs names that *Contain* the search query.
+4. **Live Page**
+   * After clicking on the play button on one of the songs from the result page, all users will be moved into the "session" or "rehearsal" page (live-page) where the song will be displayed with chords and lyrics.
+   * Users with instrument chosen as Singers will not be shown the chords.
+   * Test the checkbox to see autoscroll, try out the custom scroll speed feature.
+   * The admin will be shown the quit button, and once clicked an "Are you sure?" modal will pop.
+   * After confirming, all active users in the session will be kicked back to the home page.
+  
+## Bonus- Scraping script and how to use
+
+In the */scripts* folder you can find the scraping script.
+The script scrapes and collect data and stores it as a hard-coded database **as was demanded.**
+Further explanation on how to run the script down below.
 
 ## Demo
 
@@ -61,6 +89,9 @@ Deployed using Render services- server might spindown on inactivity causing slow
   * Nodejs
   * Express
   * Socket.io
+* **Scripts:**
+  * Axios API
+  * Cheerio API
 
 * **Database:**
   * MongoDB
@@ -107,7 +138,32 @@ Deployed using Render services- server might spindown on inactivity causing slow
 
     * Open your browser and navigate to localhost.
     * NOTE: for deployment purposes SocketContext address and Socket server adress were hardcoded. To host locally change to your localhost adress with the open port.
+  
+### Running the scraper script
 
+First make sure you are in the scripts directory, if your in root run:
+
+```bash
+  cd scripts
+```
+
+Now to run the script use the following command:
+
+```bash
+  node SongScraper.js query1 query2 ...
+```
+
+Where query1 and query2 .. are posible search queries argument for the scraper.
+
+### How it works?
+
+1. The scraper has preloaded queries: ["love story", "bohemian rhapsody", "hotel california"] and add the user queries if entered.
+2. The scraper will create a folder called *songdb* which will have both *SongsDb.json* and a folder called *songs*
+3. Each query searches Tab4u.com and returns all matches.
+4. After recording all matches in the SongsDb.json (will serve as the index manager for all the db) it will load each song into a JSON file in the *songs* directory
+  
+All the queries are executed using AXIOS API.
+  
 ## User Registration and Login
 
 * **Regular User:**
@@ -121,25 +177,7 @@ Deployed using Render services- server might spindown on inactivity causing slow
   * Click "Register."
   * Use the same credentials to log in on the login page.
   
-## Bonus Feature - Web Scraping
-
-* The application also includes a bonus feature to crawl song data from Tab4U.
-* This feature is integrated into the song search functionality.
-
-## Testing
-
-1. **Multiple users registration and login:**
-
-   * Register as an admin, and multiple users (one should be a singer to test chordless output).
-   * Login through several Incognito browsers to be able to log to several accounts (This is to bypass local storage )
-
-2. **Admin song search**
-   * Using the Admin's interface search for a song.
-   * The application API's uses scraping methods to crawl Tab4U for "live" data.
-   *
-3.
-  
 ## Author
 
 * Itamar casspi
-*
+
