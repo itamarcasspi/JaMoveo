@@ -18,10 +18,12 @@ Deployed using Render services- server might spindown on inactivity causing slow
 2. Admin registration:
 
    ![admin-screen](https://github.com/user-attachments/assets/c781f84b-58d6-4c4c-81ff-82e2b985bf27)
+
 3. Admin search:
    * Search function only available to admin. Song list data retrieved by web scraping using Axios API.
 
    ![search_double](https://github.com/user-attachments/assets/ff765f1f-7b79-4ffd-90ac-c111c18dd20d)
+
 4. Session start:
    * Session start function only available to admin. The song data itself is retrieved by web scraping as well.
    * Checkbox auto scroll toggle with added custom scroll speed input.
@@ -118,12 +120,7 @@ Deployed using Render services- server might spindown on inactivity causing slow
   * Enter a username and password.
   * Click "Register."
   * Use the same credentials to log in on the login page.
-
-## Deployment
-
-* The application is deployed on Render.
-* Follow the user registration and login instructions above to access the application.
-
+  
 ## Bonus Feature - Web Scraping
 
 * The application also includes a bonus feature to crawl song data from Tab4U.
