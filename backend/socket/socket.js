@@ -8,7 +8,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: ["http://localhost:5000"], // Allows all origins
+    origin: ["http://localhost:5000"], //Allow server access from port 5000
     methods: ['GET', 'POST'], // Allowed methods
   },
 });

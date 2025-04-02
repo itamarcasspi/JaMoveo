@@ -1,0 +1,629 @@
+{
+  "songName": "He won't go ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "Cm Gm Fm Fm Cm Gm Fm Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Cm                        Gm",
+      "type": "chords"
+    },
+    {
+      "text": "Some say   I'll be better without you",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "But they don't know you like I do",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Or at least the sides I thought I knew",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I cant bear this time",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "it drags on as I lose my mind",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Reminded by things I find",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Like notes and clothes you left behind",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Wake me up,",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "wake me up when all is done",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "I wont rise until this battle's won",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "My dignity's become undone",
+      "type": "words"
+    },
+    {
+      "text": "Fm  Gm    Ab",
+      "type": "chords"
+    },
+    {
+      "text": "But I  wont  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb    Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I can't do it on my own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Fm  Gm    Ab                 Bb   Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I   wont  go   I can't do it all alone",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "So petrified",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so scared to step into this ride",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "What if I lose my heart",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "and fail declined?",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "I wont forgive me if i give up trying",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I heard his voice today",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I didn't know a single word he said",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Not one resemblance to the man I met",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Just a vacant broken boy instead",
+      "type": "words"
+    },
+    {
+      "text": "Fm  Gm    Ab",
+      "type": "chords"
+    },
+    {
+      "text": "But I  wont  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb    Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I can't do it on my own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Fm  Gm    Ab",
+      "type": "chords"
+    },
+    {
+      "text": "I   wont  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb   Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I can't do it all alone",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Fm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Fm            Gm",
+      "type": "chords"
+    },
+    {
+      "text": "There will be times",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "We'll try and give it up",
+      "type": "words"
+    },
+    {
+      "text": "Cm              Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Bursting at the seams, no doubt",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "We'll almost fall apart",
+      "type": "words"
+    },
+    {
+      "text": "Gm         Ab",
+      "type": "chords"
+    },
+    {
+      "text": "then burn the pieces",
+      "type": "words"
+    },
+    {
+      "text": "Ab",
+      "type": "chords"
+    },
+    {
+      "text": "To watch them turn to dust",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "But nothing will ever taint us",
+      "type": "words"
+    },
+    {
+      "text": "Fm Gm    Ab                 Bb    Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I  wont  go   I can't do it on my own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Fm  Gm    Ab",
+      "type": "chords"
+    },
+    {
+      "text": "But I  wont  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb    Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I can't do it on my own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Cm                       Gm",
+      "type": "chords"
+    },
+    {
+      "text": "Will he  will he still remember me?",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "Will he still love me",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "even when he's free?",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "Or will he go back to the place",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "where he would chose",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "the poison over me?",
+      "type": "words"
+    },
+    {
+      "text": "Cm                  Gm",
+      "type": "chords"
+    },
+    {
+      "text": "When we spoke yesterday,",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "You said to hold my breath",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "to sit and wait",
+      "type": "words"
+    },
+    {
+      "text": "Fm",
+      "type": "chords"
+    },
+    {
+      "text": "I'll be home so soon, I wont be late",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Fm Fm Cm Cm x4",
+      "type": "chords"
+    },
+    {
+      "text": "Fm  Gm    Ab",
+      "type": "chords"
+    },
+    {
+      "text": "He  wont  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb     Gm",
+      "type": "chords"
+    },
+    {
+      "text": "he cant do it on his own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "He's willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Fm Gm   Ab",
+      "type": "chords"
+    },
+    {
+      "text": "So I  wont go",
+      "type": "words"
+    },
+    {
+      "text": "Bb     Gm",
+      "type": "chords"
+    },
+    {
+      "text": "he cant do it on his own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "he's willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Fm  Gm   Ab",
+      "type": "chords"
+    },
+    {
+      "text": "Cause he  wont go",
+      "type": "words"
+    },
+    {
+      "text": "Bb     Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I cant do it on his own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "We're willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Fm Gm    Ab                 Bb    Gm",
+      "type": "chords"
+    },
+    {
+      "text": "I  wont  go   I can't do it on my own",
+      "type": "words"
+    },
+    {
+      "text": "Gm                    Ab   Fm",
+      "type": "chords"
+    },
+    {
+      "text": "If this ain't love, then what is?",
+      "type": "words"
+    },
+    {
+      "text": "Fm         Gm       Cm       G Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm willing to take the risk",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Fm Fm Cm Cm x4",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "Cm Cm Fm Fm x4",
+      "type": "chords"
+    }
+  ]
+}

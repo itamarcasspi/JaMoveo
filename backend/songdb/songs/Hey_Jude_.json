@@ -1,0 +1,493 @@
+{
+  "songName": "Hey Jude ",
+  "lyrics": [
+    {
+      "text": "C4/7: x32311",
+      "type": "words"
+    },
+    {
+      "text": "F                   C",
+      "type": "chords"
+    },
+    {
+      "text": "Hey Jude   dont make it bad",
+      "type": "words"
+    },
+    {
+      "text": "C7    C4/7",
+      "type": "chords"
+    },
+    {
+      "text": "take a  sad   song",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "and make it better",
+      "type": "words"
+    },
+    {
+      "text": "Bb                            F",
+      "type": "chords"
+    },
+    {
+      "text": "Remember   to let her into your heart",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "then you can start",
+      "type": "words"
+    },
+    {
+      "text": "C7      F",
+      "type": "chords"
+    },
+    {
+      "text": "to make it better",
+      "type": "words"
+    },
+    {
+      "text": "F                C",
+      "type": "chords"
+    },
+    {
+      "text": "Hey Jude   dont be afraid",
+      "type": "words"
+    },
+    {
+      "text": "C4/7                 F",
+      "type": "chords"
+    },
+    {
+      "text": "you were made  to  go out and get her",
+      "type": "words"
+    },
+    {
+      "text": "Bb",
+      "type": "chords"
+    },
+    {
+      "text": "The minute",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "you let her under your skin",
+      "type": "words"
+    },
+    {
+      "text": "C7",
+      "type": "chords"
+    },
+    {
+      "text": "then you begin",
+      "type": "words"
+    },
+    {
+      "text": "F       F7",
+      "type": "chords"
+    },
+    {
+      "text": "to make it  better",
+      "type": "words"
+    },
+    {
+      "text": "Bb",
+      "type": "chords"
+    },
+    {
+      "text": "And anytime you feel the pain",
+      "type": "words"
+    },
+    {
+      "text": "Bb/A      Gm",
+      "type": "chords"
+    },
+    {
+      "text": "hey jude    refrain",
+      "type": "words"
+    },
+    {
+      "text": "Gm/F       C/E",
+      "type": "chords"
+    },
+    {
+      "text": "dont carry  the world",
+      "type": "words"
+    },
+    {
+      "text": "C        F          F7",
+      "type": "chords"
+    },
+    {
+      "text": "upon your shoulders",
+      "type": "words"
+    },
+    {
+      "text": "Bb",
+      "type": "chords"
+    },
+    {
+      "text": "For well you know that its a fool",
+      "type": "words"
+    },
+    {
+      "text": "Bb/A       Gm",
+      "type": "chords"
+    },
+    {
+      "text": "who plays   it cool",
+      "type": "words"
+    },
+    {
+      "text": "Gm/F       C/E      C      F",
+      "type": "chords"
+    },
+    {
+      "text": "by making his world  a little colder",
+      "type": "words"
+    },
+    {
+      "text": "F7      C",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  na  da da da  da",
+      "type": "words"
+    },
+    {
+      "text": "F                  C",
+      "type": "chords"
+    },
+    {
+      "text": "Hey Jude   dont let me down",
+      "type": "words"
+    },
+    {
+      "text": "C4/7",
+      "type": "chords"
+    },
+    {
+      "text": "You have found  her",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "now go and get her",
+      "type": "words"
+    },
+    {
+      "text": "Bb                          F",
+      "type": "chords"
+    },
+    {
+      "text": "Remember  to let her into you heart",
+      "type": "words"
+    },
+    {
+      "text": "C7                F",
+      "type": "chords"
+    },
+    {
+      "text": "then you can start  to make it better",
+      "type": "words"
+    },
+    {
+      "text": "F7",
+      "type": "chords"
+    },
+    {
+      "text": "Yeah!",
+      "type": "words"
+    },
+    {
+      "text": "Bb",
+      "type": "chords"
+    },
+    {
+      "text": "So let it out and let it in",
+      "type": "words"
+    },
+    {
+      "text": "Bb/A     Gm",
+      "type": "chords"
+    },
+    {
+      "text": "hey Jude   begin",
+      "type": "words"
+    },
+    {
+      "text": "Gm/F        C/E",
+      "type": "chords"
+    },
+    {
+      "text": "your waiting for someone",
+      "type": "words"
+    },
+    {
+      "text": "C     F            F7",
+      "type": "chords"
+    },
+    {
+      "text": "to perform with",
+      "type": "words"
+    },
+    {
+      "text": "Bb",
+      "type": "chords"
+    },
+    {
+      "text": "And dont you know that its just you",
+      "type": "words"
+    },
+    {
+      "text": "Bb/A          Gm",
+      "type": "chords"
+    },
+    {
+      "text": "hey jude   you'll do",
+      "type": "words"
+    },
+    {
+      "text": "Gm/F         C/E",
+      "type": "chords"
+    },
+    {
+      "text": "The movement you need",
+      "type": "words"
+    },
+    {
+      "text": "C         F",
+      "type": "chords"
+    },
+    {
+      "text": "is on   your shoulders",
+      "type": "words"
+    },
+    {
+      "text": "F7      C",
+      "type": "chords"
+    },
+    {
+      "text": "Da da da da  da  da da da  da  yeah",
+      "type": "words"
+    },
+    {
+      "text": "F                  C",
+      "type": "chords"
+    },
+    {
+      "text": "Hey Jude   dont make it bad",
+      "type": "words"
+    },
+    {
+      "text": "C4/7",
+      "type": "chords"
+    },
+    {
+      "text": "take a  sad",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "song  and make it better",
+      "type": "words"
+    },
+    {
+      "text": "Bb                             F",
+      "type": "chords"
+    },
+    {
+      "text": "Remember  to let her under your skin",
+      "type": "words"
+    },
+    {
+      "text": "C7",
+      "type": "chords"
+    },
+    {
+      "text": "and then you'll begin",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "to make it better  better  better",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "better  better   better  ohhhh",
+      "type": "words"
+    },
+    {
+      "text": "F             Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Naaa  na  na  na na na na",
+      "type": "words"
+    },
+    {
+      "text": "Bb               F",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  hey Jude",
+      "type": "words"
+    },
+    {
+      "text": "F             Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Naaa  na  na  na na na na",
+      "type": "words"
+    },
+    {
+      "text": "Bb               F",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  hey Jude",
+      "type": "words"
+    },
+    {
+      "text": "F             Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Naaa  na  na  na na na na",
+      "type": "words"
+    },
+    {
+      "text": "Bb               F",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  hey Jude",
+      "type": "words"
+    },
+    {
+      "text": "F             Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Naaa  na  na  na na na na",
+      "type": "words"
+    },
+    {
+      "text": "Bb               F",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  hey Jude",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "(Jude jude jude jude)",
+      "type": "words"
+    },
+    {
+      "text": "F             Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Naaa  na  na  na na na na",
+      "type": "words"
+    },
+    {
+      "text": "Bb               F",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  hey Jude",
+      "type": "words"
+    },
+    {
+      "text": "F             Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Naaa  na  na  na na na na",
+      "type": "words"
+    },
+    {
+      "text": "Bb               F",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  hey Jude",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F Bb F C7 x4",
+      "type": "chords"
+    },
+    {
+      "text": "F             Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Naaa  na  na  na na na na",
+      "type": "words"
+    },
+    {
+      "text": "Bb               F",
+      "type": "chords"
+    },
+    {
+      "text": "Na na na na  hey Jude",
+      "type": "words"
+    },
+    {
+      "text": "x16",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F Bb F C7 x4",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "F C7 F Bb x4",
+      "type": "chords"
+    }
+  ]
+}

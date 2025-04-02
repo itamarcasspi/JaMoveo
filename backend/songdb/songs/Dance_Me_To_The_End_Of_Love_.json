@@ -1,0 +1,525 @@
+{
+  "songName": "Dance Me To The End Of Love ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Am                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "La la   la la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "Em          B7",
+      "type": "chords"
+    },
+    {
+      "text": "La la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "B7        Em",
+      "type": "chords"
+    },
+    {
+      "text": "Laaa laaa laaaa",
+      "type": "words"
+    },
+    {
+      "text": "Am                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "La la   la la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "Em          B7",
+      "type": "chords"
+    },
+    {
+      "text": "La la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "B7        Em",
+      "type": "chords"
+    },
+    {
+      "text": "Laaa laaa laaaa",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me to your beauty",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "With a burning violin",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me through the panic",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "'til I'm gathered safely in",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Lift me like an olive branch",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "And be my homeward dove",
+      "type": "words"
+    },
+    {
+      "text": "B7                      Em",
+      "type": "chords"
+    },
+    {
+      "text": "And dance me  to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "B7                       Em",
+      "type": "chords"
+    },
+    {
+      "text": "Yeah dance me   to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Let me see your beauty",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "When the witnesses are gone",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Let me feel you moving",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Like they do in Babylon",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Show me slowly what I only",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Know the limits of",
+      "type": "words"
+    },
+    {
+      "text": "B7                      Em",
+      "type": "chords"
+    },
+    {
+      "text": "And dance me  to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "B7                       Em",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me   to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "D Em D Em",
+      "type": "chords"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me to the wedding now,",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me on and on",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me very tenderly",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "And dance me very long",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "We're both of us beneath our love,",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Both of us above",
+      "type": "words"
+    },
+    {
+      "text": "B7                      Em",
+      "type": "chords"
+    },
+    {
+      "text": "And dance me  to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "B7                       Em",
+      "type": "chords"
+    },
+    {
+      "text": "Yeah dance me   to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me to the children",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Who are asking to be born",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me through the curtains",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "That our kisses have outworn",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Raise a tent of shelter now,",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Though every thread is torn",
+      "type": "words"
+    },
+    {
+      "text": "B7                      Em",
+      "type": "chords"
+    },
+    {
+      "text": "And dance me  to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "D Em D Em",
+      "type": "chords"
+    },
+    {
+      "text": "Am                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "La la   la la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "Em          B7",
+      "type": "chords"
+    },
+    {
+      "text": "La la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "B7        Em",
+      "type": "chords"
+    },
+    {
+      "text": "Laaa laaa laaaa",
+      "type": "words"
+    },
+    {
+      "text": "Am                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "La la   la la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "Em          B7",
+      "type": "chords"
+    },
+    {
+      "text": "La la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "B7        Em",
+      "type": "chords"
+    },
+    {
+      "text": "Laaa laaa laaaa",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me to your beauty",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "With a burning violin",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me through the panic",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Till I'm gathered safely in",
+      "type": "words"
+    },
+    {
+      "text": "Am",
+      "type": "chords"
+    },
+    {
+      "text": "Touch me with your naked hand",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Touch me with your glove",
+      "type": "words"
+    },
+    {
+      "text": "B7                      Em",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me  to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "B7                       Em",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me   to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "B7                       Em",
+      "type": "chords"
+    },
+    {
+      "text": "Dance me   to the end of love",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "D Em D Em",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em B7 Em Am x2",
+      "type": "chords"
+    },
+    {
+      "text": "Am                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "La la   la la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "Em          B7",
+      "type": "chords"
+    },
+    {
+      "text": "La la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "B7        Em",
+      "type": "chords"
+    },
+    {
+      "text": "Laaa laaa laaaa",
+      "type": "words"
+    },
+    {
+      "text": "Am                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "La la   la la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "Em          B7",
+      "type": "chords"
+    },
+    {
+      "text": "La la la la la la",
+      "type": "words"
+    },
+    {
+      "text": "B7        Em",
+      "type": "chords"
+    },
+    {
+      "text": "Laaa laaa laaaa",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em B7 Em Am x2",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "Em Am Em B7 x2",
+      "type": "chords"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "songName": "Another Love ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "Em G C Em",
+      "type": "chords"
+    },
+    {
+      "text": "Bm C Em Am",
+      "type": "chords"
+    },
+    {
+      "text": "Em Bm C C",
+      "type": "chords"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "C                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "I wanna take you somewhere",
+      "type": "words"
+    },
+    {
+      "text": "Am     Em",
+      "type": "chords"
+    },
+    {
+      "text": "So you know I care",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But it's so cold     and",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "I don't know where",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "I brought you daffodils in",
+      "type": "words"
+    },
+    {
+      "text": "Am     Em",
+      "type": "chords"
+    },
+    {
+      "text": "A pretty string",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But they won't flower like",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "They did last spring",
+      "type": "words"
+    },
+    {
+      "text": "C            Em",
+      "type": "chords"
+    },
+    {
+      "text": "And I wanna kiss you",
+      "type": "words"
+    },
+    {
+      "text": "Am     Em",
+      "type": "chords"
+    },
+    {
+      "text": "Make you feel alright",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm just so tired to",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Share my nights",
+      "type": "words"
+    },
+    {
+      "text": "D     Em        Am    Em",
+      "type": "chords"
+    },
+    {
+      "text": "I wanna cry and I wanna love",
+      "type": "words"
+    },
+    {
+      "text": "Bm               C",
+      "type": "chords"
+    },
+    {
+      "text": "But all my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "Em Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Oh oh",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em G C Em",
+      "type": "chords"
+    },
+    {
+      "text": "Bm C Em Am Em",
+      "type": "chords"
+    },
+    {
+      "text": "Bm C",
+      "type": "chords"
+    },
+    {
+      "text": "C                Em",
+      "type": "chords"
+    },
+    {
+      "text": "And if somebody hurts you",
+      "type": "words"
+    },
+    {
+      "text": "Am    Em",
+      "type": "chords"
+    },
+    {
+      "text": "I wanna fight",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But my hand's been broken",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "One too many times",
+      "type": "words"
+    },
+    {
+      "text": "D      Em",
+      "type": "chords"
+    },
+    {
+      "text": "So I'll use my voice",
+      "type": "words"
+    },
+    {
+      "text": "Am    Em",
+      "type": "chords"
+    },
+    {
+      "text": "I'll be so fucking rude",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Words they always win",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "But I know I'll lose",
+      "type": "words"
+    },
+    {
+      "text": "C              Em",
+      "type": "chords"
+    },
+    {
+      "text": "And I'd sing a song",
+      "type": "words"
+    },
+    {
+      "text": "Am      Em",
+      "type": "chords"
+    },
+    {
+      "text": "That'd be just ours",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But I sang 'em all",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "To another heart",
+      "type": "words"
+    },
+    {
+      "text": "D     Em",
+      "type": "chords"
+    },
+    {
+      "text": "And I wanna cry",
+      "type": "words"
+    },
+    {
+      "text": "Am      Em",
+      "type": "chords"
+    },
+    {
+      "text": "I wanna learn to love",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But all my tears",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C G",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "Em Bm C",
+      "type": "chords"
+    },
+    {
+      "text": "Oh oh",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em Am Em Bm C",
+      "type": "chords"
+    },
+    {
+      "text": "Em Am Em Bm C",
+      "type": "chords"
+    },
+    {
+      "text": "C              Em",
+      "type": "chords"
+    },
+    {
+      "text": "And I'd sing a song",
+      "type": "words"
+    },
+    {
+      "text": "Am      Em",
+      "type": "chords"
+    },
+    {
+      "text": "That'd be just ours",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But I sang 'em all",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "To another heart",
+      "type": "words"
+    },
+    {
+      "text": "D     Em",
+      "type": "chords"
+    },
+    {
+      "text": "And I wanna cry",
+      "type": "words"
+    },
+    {
+      "text": "Am      Em",
+      "type": "chords"
+    },
+    {
+      "text": "I wanna learn to love",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But all my tears",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Have been used up",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em C Em Bm x4",
+      "type": "chords"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "G              Em",
+      "type": "chords"
+    },
+    {
+      "text": "On another love,   another love",
+      "type": "words"
+    },
+    {
+      "text": "Bm                     C",
+      "type": "chords"
+    },
+    {
+      "text": "All my tears have been used up",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em C Em Bm x4",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "G Em Bm",
+      "type": "chords"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "songName": "Wonderful Life ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "F#m F#m F#m",
+      "type": "chords"
+    },
+    {
+      "text": "F#m   E/Ab     A",
+      "type": "chords"
+    },
+    {
+      "text": "Here I go   out   to see again",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab     F#m",
+      "type": "chords"
+    },
+    {
+      "text": "The sunshine fills my hair",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab        A          E/Ab F#m",
+      "type": "chords"
+    },
+    {
+      "text": "And dreams hang in the air",
+      "type": "words"
+    },
+    {
+      "text": "F#m               E/Ab",
+      "type": "chords"
+    },
+    {
+      "text": "Gulls in the sky  and",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "In my blue eyes",
+      "type": "words"
+    },
+    {
+      "text": "A       E/Ab    F#m",
+      "type": "chords"
+    },
+    {
+      "text": "You know it feels unfair",
+      "type": "words"
+    },
+    {
+      "text": "F#m     E/Ab   A          E/Ab F#m",
+      "type": "chords"
+    },
+    {
+      "text": "There's magic  everywhere",
+      "type": "words"
+    },
+    {
+      "text": "F#m        E/Ab       A",
+      "type": "chords"
+    },
+    {
+      "text": "Look at me standing",
+      "type": "words"
+    },
+    {
+      "text": "Bm          F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Here on my own again",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab      A  Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Up straight in the sunshine",
+      "type": "words"
+    },
+    {
+      "text": "F#m        A",
+      "type": "chords"
+    },
+    {
+      "text": "No need to run    and hide",
+      "type": "words"
+    },
+    {
+      "text": "F#m        Bm        E",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful, wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m         A",
+      "type": "chords"
+    },
+    {
+      "text": "No need to laugh   or cry",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful",
+      "type": "words"
+    },
+    {
+      "text": "Bm        E       F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "The sun's in your eyes",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab     A",
+      "type": "chords"
+    },
+    {
+      "text": "The heat  is in your hair",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab        F#m",
+      "type": "chords"
+    },
+    {
+      "text": "They seem to hate you",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab         A      E/Ab  F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Because you're there",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "And I need a friend",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab         A",
+      "type": "chords"
+    },
+    {
+      "text": "Ohh   I need a friend",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab   F#m",
+      "type": "chords"
+    },
+    {
+      "text": "To make me happy",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab              A    E/Ab F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Not stand there on my own",
+      "type": "words"
+    },
+    {
+      "text": "F#m        E/Ab       A",
+      "type": "chords"
+    },
+    {
+      "text": "Look at me standing",
+      "type": "words"
+    },
+    {
+      "text": "Bm          F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Here on my own again",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab      A  Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Up straight in the sunshine",
+      "type": "words"
+    },
+    {
+      "text": "F#m        A",
+      "type": "chords"
+    },
+    {
+      "text": "No need to run    and hide",
+      "type": "words"
+    },
+    {
+      "text": "F#m        Bm        E",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful, wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m         A",
+      "type": "chords"
+    },
+    {
+      "text": "No need to laugh   or cry",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful",
+      "type": "words"
+    },
+    {
+      "text": "Bm        E       F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Mm mm mm mm mm  mmm",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab        A",
+      "type": "chords"
+    },
+    {
+      "text": "Mm mm   mm  mm mm mm",
+      "type": "words"
+    },
+    {
+      "text": "A       E/Ab    F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Mm  mm  mm  mm  mm",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab        A    E/Ab  F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Mm  mm  mm  mm mm",
+      "type": "words"
+    },
+    {
+      "text": "F#m            E/Ab",
+      "type": "chords"
+    },
+    {
+      "text": "I need a friend  ohhh",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "I need a friend",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab    F#m",
+      "type": "chords"
+    },
+    {
+      "text": "To make me happy",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab    A      E/Ab  F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Not so alone",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab E/Ab F#m F#m x2",
+      "type": "chords"
+    },
+    {
+      "text": "F#m        E/Ab       A",
+      "type": "chords"
+    },
+    {
+      "text": "Look at me here",
+      "type": "words"
+    },
+    {
+      "text": "Bm          F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Here on my own again",
+      "type": "words"
+    },
+    {
+      "text": "E/Ab      A  Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Up straight in the sunshine",
+      "type": "words"
+    },
+    {
+      "text": "F#m        A",
+      "type": "chords"
+    },
+    {
+      "text": "No need to run    and hide",
+      "type": "words"
+    },
+    {
+      "text": "F#m        Bm        E",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful, wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m         A",
+      "type": "chords"
+    },
+    {
+      "text": "No need to laugh   or cry",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful",
+      "type": "words"
+    },
+    {
+      "text": "Bm        E       F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "It's a wonderful life",
+      "type": "words"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "F#m F#m E/Ab E/Ab x2",
+      "type": "chords"
+    }
+  ]
+}

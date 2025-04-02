@@ -1,0 +1,557 @@
+{
+  "songName": "Hey There Delilah ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "D               F#m",
+      "type": "chords"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Hey there Delilah",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "What's it like in New York City?",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "I'm a thousand miles away",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "But girl tonight you look so pretty",
+      "type": "words"
+    },
+    {
+      "text": "Bm  Bm/A G",
+      "type": "chords"
+    },
+    {
+      "text": "Yes you do",
+      "type": "words"
+    },
+    {
+      "text": "G                  A                  Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Times Square can't shine as bright as you",
+      "type": "words"
+    },
+    {
+      "text": "A    D",
+      "type": "chords"
+    },
+    {
+      "text": "I swear it's true",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Hey there Delilah",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Don't you worry about the distance",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "I'm right there if you get lonely",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Give this song another listen",
+      "type": "words"
+    },
+    {
+      "text": "Bm   Bm/A G",
+      "type": "chords"
+    },
+    {
+      "text": "Close your eyes",
+      "type": "words"
+    },
+    {
+      "text": "G            A                Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Listen to my voice it's my disguise",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "I'm by your side",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "Bm/C#    D  A/D D",
+      "type": "chords"
+    },
+    {
+      "text": "What you do   to me",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Hey there Delilah",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "I know times are getting hard",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "But just believe me girl",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Someday I'll pay the bills with this guitar",
+      "type": "words"
+    },
+    {
+      "text": "Bm    Bm/A G",
+      "type": "chords"
+    },
+    {
+      "text": "We'll have it good",
+      "type": "words"
+    },
+    {
+      "text": "A               Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We'll have the life we knew we would",
+      "type": "words"
+    },
+    {
+      "text": "A    D",
+      "type": "chords"
+    },
+    {
+      "text": "My word is good",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Hey there Delilah",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "I've got so much left to say",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "If every simple song I wrote to you",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Would take your breath away",
+      "type": "words"
+    },
+    {
+      "text": "Bm   Bm/A G",
+      "type": "chords"
+    },
+    {
+      "text": "I'd write it all",
+      "type": "words"
+    },
+    {
+      "text": "G            A                  Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Even more in love with me you'd fall",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "We'd have it all",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  A",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "A thousand miles seems pretty far",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "But they've got planes and trains and cars",
+      "type": "words"
+    },
+    {
+      "text": "D                       A     Bm  A",
+      "type": "chords"
+    },
+    {
+      "text": "I'd walk to you if I had no other way",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "Our friends would all make fun of us",
+      "type": "words"
+    },
+    {
+      "text": "A                                  D",
+      "type": "chords"
+    },
+    {
+      "text": "And we'll just laugh along because we know",
+      "type": "words"
+    },
+    {
+      "text": "D/C#      Bm  A",
+      "type": "chords"
+    },
+    {
+      "text": "That none of them have felt this way",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "Delilah I can promise you",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "That by the time we get through",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "The world will never ever be the same",
+      "type": "words"
+    },
+    {
+      "text": "A    D",
+      "type": "chords"
+    },
+    {
+      "text": "And you're to blame",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Hey there Delilah",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "You be good and don't you miss me",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Two more years and you'll be done with school",
+      "type": "words"
+    },
+    {
+      "text": "F#m                           Bm Bm/A G",
+      "type": "chords"
+    },
+    {
+      "text": "And I'll be making history like I do",
+      "type": "words"
+    },
+    {
+      "text": "G                A              Bm  Bm/A G",
+      "type": "chords"
+    },
+    {
+      "text": "You'll know it's all because of you",
+      "type": "words"
+    },
+    {
+      "text": "G             A           Bm    Bm/A G",
+      "type": "chords"
+    },
+    {
+      "text": "We can do whatever we want  to",
+      "type": "words"
+    },
+    {
+      "text": "G           A               Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Hey there Delilah here's to you",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "This ones for you",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm  Bm/C#",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "D                 A     Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Oh  it's what you do to me",
+      "type": "words"
+    },
+    {
+      "text": "Bm/C#  D",
+      "type": "chords"
+    },
+    {
+      "text": "What you do to  me",
+      "type": "words"
+    },
+    {
+      "text": "D/A   Bm      Bm/C# D",
+      "type": "chords"
+    },
+    {
+      "text": "Houuu ohhhh   woh   ohhhhh",
+      "type": "words"
+    },
+    {
+      "text": "D/A     Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Wohhh ohh ohh ohh ohhhhh",
+      "type": "words"
+    },
+    {
+      "text": "Bm/C# D            D/A Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Ohh   wohhhh  wo wo oh ohhhh",
+      "type": "words"
+    },
+    {
+      "text": "Bm/C# D       D/A Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Wo wo oh   ohhhh   oh  ohhh",
+      "type": "words"
+    },
+    {
+      "text": "Bm/C# D     D/A D",
+      "type": "chords"
+    },
+    {
+      "text": "Ohh   ohhhh",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F#m D D D x2",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F#m D D D x2",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "D D F#m D x2",
+      "type": "chords"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "songName": "The Times They Are A Changin ",
+  "lyrics": [
+    {
+      "text": "G             Em",
+      "type": "chords"
+    },
+    {
+      "text": "Come gather 'round people",
+      "type": "words"
+    },
+    {
+      "text": "C        G",
+      "type": "chords"
+    },
+    {
+      "text": "Wherever you roam",
+      "type": "words"
+    },
+    {
+      "text": "G            Am",
+      "type": "chords"
+    },
+    {
+      "text": "And admit that the waters",
+      "type": "words"
+    },
+    {
+      "text": "C              D",
+      "type": "chords"
+    },
+    {
+      "text": "Around you have grown",
+      "type": "words"
+    },
+    {
+      "text": "G            Em",
+      "type": "chords"
+    },
+    {
+      "text": "And accept it that soon",
+      "type": "words"
+    },
+    {
+      "text": "C               G",
+      "type": "chords"
+    },
+    {
+      "text": "You'll be drenched to the bone.",
+      "type": "words"
+    },
+    {
+      "text": "G       Am           D",
+      "type": "chords"
+    },
+    {
+      "text": "If your time to you Is worth savin'",
+      "type": "words"
+    },
+    {
+      "text": "G            D7",
+      "type": "chords"
+    },
+    {
+      "text": "Then you better start swimmin'",
+      "type": "words"
+    },
+    {
+      "text": "C            D",
+      "type": "chords"
+    },
+    {
+      "text": "Or you'll sink like a stone",
+      "type": "words"
+    },
+    {
+      "text": "G     C          D   G",
+      "type": "chords"
+    },
+    {
+      "text": "For the times they are a-changin'.",
+      "type": "words"
+    },
+    {
+      "text": "G             Em",
+      "type": "chords"
+    },
+    {
+      "text": "Come writers and critics",
+      "type": "words"
+    },
+    {
+      "text": "C        G",
+      "type": "chords"
+    },
+    {
+      "text": "Who prophesize with your pen",
+      "type": "words"
+    },
+    {
+      "text": "G            Am",
+      "type": "chords"
+    },
+    {
+      "text": "And keep your eyes wide",
+      "type": "words"
+    },
+    {
+      "text": "C              D",
+      "type": "chords"
+    },
+    {
+      "text": "The chance won't come again",
+      "type": "words"
+    },
+    {
+      "text": "G            Em",
+      "type": "chords"
+    },
+    {
+      "text": "And don't speak too soon",
+      "type": "words"
+    },
+    {
+      "text": "C               G",
+      "type": "chords"
+    },
+    {
+      "text": "For the wheel's still in spin",
+      "type": "words"
+    },
+    {
+      "text": "G       Am",
+      "type": "chords"
+    },
+    {
+      "text": "And there's no tellin'",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Who that it's namin'.",
+      "type": "words"
+    },
+    {
+      "text": "G            D7",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause the loser now",
+      "type": "words"
+    },
+    {
+      "text": "C            D",
+      "type": "chords"
+    },
+    {
+      "text": "Will be later to win",
+      "type": "words"
+    },
+    {
+      "text": "G     C          D   G",
+      "type": "chords"
+    },
+    {
+      "text": "For the times they are a-changin'.",
+      "type": "words"
+    },
+    {
+      "text": "G             Em",
+      "type": "chords"
+    },
+    {
+      "text": "Come senators, congressmen",
+      "type": "words"
+    },
+    {
+      "text": "C        G",
+      "type": "chords"
+    },
+    {
+      "text": "Please heed the call",
+      "type": "words"
+    },
+    {
+      "text": "G            Am",
+      "type": "chords"
+    },
+    {
+      "text": "Don't stand in the doorway",
+      "type": "words"
+    },
+    {
+      "text": "C              D",
+      "type": "chords"
+    },
+    {
+      "text": "Don't block up the hall",
+      "type": "words"
+    },
+    {
+      "text": "G            Em",
+      "type": "chords"
+    },
+    {
+      "text": "For he that gets hurt",
+      "type": "words"
+    },
+    {
+      "text": "C               G",
+      "type": "chords"
+    },
+    {
+      "text": "Will be he who has stalled",
+      "type": "words"
+    },
+    {
+      "text": "G       Am           D",
+      "type": "chords"
+    },
+    {
+      "text": "The battle outside ragin'",
+      "type": "words"
+    },
+    {
+      "text": "G            D7",
+      "type": "chords"
+    },
+    {
+      "text": "Will soon shake your windows *)",
+      "type": "words"
+    },
+    {
+      "text": "C            D",
+      "type": "chords"
+    },
+    {
+      "text": "And rattle your walls",
+      "type": "words"
+    },
+    {
+      "text": "G     C          D   G",
+      "type": "chords"
+    },
+    {
+      "text": "For the times they are a-changin'.",
+      "type": "words"
+    },
+    {
+      "text": "G             Em",
+      "type": "chords"
+    },
+    {
+      "text": "Come mothers and fathers",
+      "type": "words"
+    },
+    {
+      "text": "C        G",
+      "type": "chords"
+    },
+    {
+      "text": "Throughout the land",
+      "type": "words"
+    },
+    {
+      "text": "G            Am",
+      "type": "chords"
+    },
+    {
+      "text": "And don't criticize",
+      "type": "words"
+    },
+    {
+      "text": "C              D",
+      "type": "chords"
+    },
+    {
+      "text": "What you can't understand",
+      "type": "words"
+    },
+    {
+      "text": "G            Em",
+      "type": "chords"
+    },
+    {
+      "text": "Your sons and your daughters",
+      "type": "words"
+    },
+    {
+      "text": "C               G",
+      "type": "chords"
+    },
+    {
+      "text": "Are beyond your command",
+      "type": "words"
+    },
+    {
+      "text": "G       Am           D",
+      "type": "chords"
+    },
+    {
+      "text": "Your old road is rapidly agin'.",
+      "type": "words"
+    },
+    {
+      "text": "G            D7",
+      "type": "chords"
+    },
+    {
+      "text": "Please get out of the new one",
+      "type": "words"
+    },
+    {
+      "text": "C            D",
+      "type": "chords"
+    },
+    {
+      "text": "If you can't lend your hand",
+      "type": "words"
+    },
+    {
+      "text": "G     C          D   G",
+      "type": "chords"
+    },
+    {
+      "text": "For the times they are a-changin'.",
+      "type": "words"
+    },
+    {
+      "text": "G             Em",
+      "type": "chords"
+    },
+    {
+      "text": "The line it is drawn",
+      "type": "words"
+    },
+    {
+      "text": "C        G",
+      "type": "chords"
+    },
+    {
+      "text": "The curse it is cast",
+      "type": "words"
+    },
+    {
+      "text": "G            Am",
+      "type": "chords"
+    },
+    {
+      "text": "The slow one now",
+      "type": "words"
+    },
+    {
+      "text": "C              D",
+      "type": "chords"
+    },
+    {
+      "text": "Will later be fast",
+      "type": "words"
+    },
+    {
+      "text": "G            Em",
+      "type": "chords"
+    },
+    {
+      "text": "As the present now",
+      "type": "words"
+    },
+    {
+      "text": "C               G",
+      "type": "chords"
+    },
+    {
+      "text": "Will later be past",
+      "type": "words"
+    },
+    {
+      "text": "G       Am           D",
+      "type": "chords"
+    },
+    {
+      "text": "The order is rapidly fadin'.",
+      "type": "words"
+    },
+    {
+      "text": "G            D7",
+      "type": "chords"
+    },
+    {
+      "text": "And the first one now",
+      "type": "words"
+    },
+    {
+      "text": "C            D",
+      "type": "chords"
+    },
+    {
+      "text": "Will later be last",
+      "type": "words"
+    },
+    {
+      "text": "G     C          D   G",
+      "type": "chords"
+    },
+    {
+      "text": "For the times they are a-changin'.",
+      "type": "words"
+    }
+  ]
+}

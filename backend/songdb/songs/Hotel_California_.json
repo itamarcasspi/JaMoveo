@@ -1,0 +1,641 @@
+{
+  "songName": "Hotel California ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "Bm9",
+      "type": "chords"
+    },
+    {
+      "text": "A/B",
+      "type": "chords"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "",
+      "type": "words"
+    },
+    {
+      "text": "F#7",
+      "type": "chords"
+    },
+    {
+      "text": "Bm9",
+      "type": "chords"
+    },
+    {
+      "text": "A/B",
+      "type": "chords"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "F#7",
+      "type": "chords"
+    },
+    {
+      "text": "F#7",
+      "type": "chords"
+    },
+    {
+      "text": "Bm                        F#",
+      "type": "chords"
+    },
+    {
+      "text": "On a dark desert highway,",
+      "type": "words"
+    },
+    {
+      "text": "F#                      A",
+      "type": "chords"
+    },
+    {
+      "text": "cool wind in my hair",
+      "type": "words"
+    },
+    {
+      "text": "A                     E",
+      "type": "chords"
+    },
+    {
+      "text": "Warm smell of colitas",
+      "type": "words"
+    },
+    {
+      "text": "E                          G",
+      "type": "chords"
+    },
+    {
+      "text": "rising up through the air",
+      "type": "words"
+    },
+    {
+      "text": "G                         D",
+      "type": "chords"
+    },
+    {
+      "text": "Up ahead in the distance,",
+      "type": "words"
+    },
+    {
+      "text": "D                          Em",
+      "type": "chords"
+    },
+    {
+      "text": "I saw a shimmering light",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "My head grew heavy",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "and my sight grew dim",
+      "type": "words"
+    },
+    {
+      "text": "F#                           Bm",
+      "type": "chords"
+    },
+    {
+      "text": "I had to stop for the night",
+      "type": "words"
+    },
+    {
+      "text": "Bm                               F#",
+      "type": "chords"
+    },
+    {
+      "text": "There she stood in the doorway",
+      "type": "words"
+    },
+    {
+      "text": "F#                        A",
+      "type": "chords"
+    },
+    {
+      "text": "I heard the mission bell",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "And I was thinking to myself",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "this could be heaven",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "or this could be hell",
+      "type": "words"
+    },
+    {
+      "text": "G                         D",
+      "type": "chords"
+    },
+    {
+      "text": "Then she lit up a candle,",
+      "type": "words"
+    },
+    {
+      "text": "D                          Em",
+      "type": "chords"
+    },
+    {
+      "text": "and she showed me the way",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "There were voices",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "down the corridor",
+      "type": "words"
+    },
+    {
+      "text": "F#                           G",
+      "type": "chords"
+    },
+    {
+      "text": "I thought I heard them say",
+      "type": "words"
+    },
+    {
+      "text": "G                        D",
+      "type": "chords"
+    },
+    {
+      "text": "Welcome to the Hotel California.",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Such a lovely place",
+      "type": "words"
+    },
+    {
+      "text": "Bm7",
+      "type": "chords"
+    },
+    {
+      "text": "such a lovely face",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "Plenty of room at the",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Hotel California",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Any time of year (any time of year)",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "you can find it here",
+      "type": "words"
+    },
+    {
+      "text": "Bm                           F#",
+      "type": "chords"
+    },
+    {
+      "text": "Her mind is Tiffany twisted,",
+      "type": "words"
+    },
+    {
+      "text": "F#                     A",
+      "type": "chords"
+    },
+    {
+      "text": "she got the Mercedes bends",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "She got a lot of pretty",
+      "type": "words"
+    },
+    {
+      "text": "E                  G",
+      "type": "chords"
+    },
+    {
+      "text": "pretty boys that she calls friends",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "How they dance in the courtyard",
+      "type": "words"
+    },
+    {
+      "text": "D                  Em",
+      "type": "chords"
+    },
+    {
+      "text": "sweet summer sweat",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Some dance to remember",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "some dance to forget",
+      "type": "words"
+    },
+    {
+      "text": "Bm                          F#",
+      "type": "chords"
+    },
+    {
+      "text": "So I called up the captain",
+      "type": "words"
+    },
+    {
+      "text": "F#                         A",
+      "type": "chords"
+    },
+    {
+      "text": "\"Please bring me my wine.\"",
+      "type": "words"
+    },
+    {
+      "text": "A                                  E",
+      "type": "chords"
+    },
+    {
+      "text": "\"We haven't had that spirit here",
+      "type": "words"
+    },
+    {
+      "text": "E                           G",
+      "type": "chords"
+    },
+    {
+      "text": "since nineteen sixty-nine\"",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "And still those voices are",
+      "type": "words"
+    },
+    {
+      "text": "D                      Em",
+      "type": "chords"
+    },
+    {
+      "text": "calling from far away",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Wake you up",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "in the middle of the night",
+      "type": "words"
+    },
+    {
+      "text": "F#                      G",
+      "type": "chords"
+    },
+    {
+      "text": "just to hear them say",
+      "type": "words"
+    },
+    {
+      "text": "G                        D",
+      "type": "chords"
+    },
+    {
+      "text": "Welcome to the Hotel California.",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "Such a lovely place",
+      "type": "words"
+    },
+    {
+      "text": "Bm7",
+      "type": "chords"
+    },
+    {
+      "text": "such a lovely face",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "They livin' it up at the",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Hotel California",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "What a nice surprise",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "(what a nice surprise)",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "bring your alibis",
+      "type": "words"
+    },
+    {
+      "text": "Mirrors on the ceiling",
+      "type": "words"
+    },
+    {
+      "text": "the pink champagne on ice",
+      "type": "words"
+    },
+    {
+      "text": "And she said",
+      "type": "words"
+    },
+    {
+      "text": "\"We are all just prisoners here",
+      "type": "words"
+    },
+    {
+      "text": "of our own device\"",
+      "type": "words"
+    },
+    {
+      "text": "And in the master's chambers",
+      "type": "words"
+    },
+    {
+      "text": "they gathered for the feast",
+      "type": "words"
+    },
+    {
+      "text": "They stab it with their steely knives",
+      "type": "words"
+    },
+    {
+      "text": "but they just can't kill the beast",
+      "type": "words"
+    },
+    {
+      "text": "Last thing I remember",
+      "type": "words"
+    },
+    {
+      "text": "I was running for the door",
+      "type": "words"
+    },
+    {
+      "text": "I had to find the passage",
+      "type": "words"
+    },
+    {
+      "text": "back to the place I was before",
+      "type": "words"
+    },
+    {
+      "text": "\"Relax\" said the nightman",
+      "type": "words"
+    },
+    {
+      "text": "\"We are programmed to receive\"",
+      "type": "words"
+    },
+    {
+      "text": "\"You can check out anytime you like",
+      "type": "words"
+    },
+    {
+      "text": "but you can never leave\"",
+      "type": "words"
+    },
+    {
+      "text": "Solo 1:",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "F#               A",
+      "type": "chords"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "G                            D",
+      "type": "chords"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "F#7",
+      "type": "chords"
+    },
+    {
+      "text": "Solo 2:",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "Outro:",
+      "type": "words"
+    },
+    {
+      "text": "Guitar 1:",
+      "type": "words"
+    },
+    {
+      "text": "Bm                                   F#",
+      "type": "chords"
+    },
+    {
+      "text": "A                               E",
+      "type": "chords"
+    },
+    {
+      "text": "G                               D",
+      "type": "chords"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "F#                               Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Guitar 2:",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em F#7 Bm9 A/B x4",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em F#7 Bm9 A/B x4",
+      "type": "chords"
+    }
+  ]
+}

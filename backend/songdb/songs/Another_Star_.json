@@ -1,0 +1,509 @@
+{
+  "songName": "Another Star ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m C# |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "F#m E",
+      "type": "chords"
+    },
+    {
+      "text": "For you",
+      "type": "words"
+    },
+    {
+      "text": "D    C#m",
+      "type": "chords"
+    },
+    {
+      "text": "There might be another star",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But through my eyes the light",
+      "type": "words"
+    },
+    {
+      "text": "C#7#9          F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Of you it's all I see",
+      "type": "words"
+    },
+    {
+      "text": "F#m E",
+      "type": "chords"
+    },
+    {
+      "text": "For you",
+      "type": "words"
+    },
+    {
+      "text": "D    C#m",
+      "type": "chords"
+    },
+    {
+      "text": "There might be another song",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But all my heart can hear",
+      "type": "words"
+    },
+    {
+      "text": "C#7#9    F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Is your melody",
+      "type": "words"
+    },
+    {
+      "text": "Em7         A7",
+      "type": "chords"
+    },
+    {
+      "text": "So long ago my heart without",
+      "type": "words"
+    },
+    {
+      "text": "Dmaj7",
+      "type": "chords"
+    },
+    {
+      "text": "Demanding",
+      "type": "words"
+    },
+    {
+      "text": "Em7               A7",
+      "type": "chords"
+    },
+    {
+      "text": "Informed me that no other",
+      "type": "words"
+    },
+    {
+      "text": "Dmaj7",
+      "type": "chords"
+    },
+    {
+      "text": "Love could do",
+      "type": "words"
+    },
+    {
+      "text": "F#m7         B7",
+      "type": "chords"
+    },
+    {
+      "text": "But listen did I not though",
+      "type": "words"
+    },
+    {
+      "text": "Emaj7   C#7",
+      "type": "chords"
+    },
+    {
+      "text": "Understanding",
+      "type": "words"
+    },
+    {
+      "text": "F#m7",
+      "type": "chords"
+    },
+    {
+      "text": "Fell in love with one",
+      "type": "words"
+    },
+    {
+      "text": "G#7               C#4 C#",
+      "type": "chords"
+    },
+    {
+      "text": "Who would break my heart in two",
+      "type": "words"
+    },
+    {
+      "text": "F#m E",
+      "type": "chords"
+    },
+    {
+      "text": "For you",
+      "type": "words"
+    },
+    {
+      "text": "D   C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Love might bring a toast of wine",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But which each sparkle know",
+      "type": "words"
+    },
+    {
+      "text": "C#7#9          F#m",
+      "type": "chords"
+    },
+    {
+      "text": "The best for you I pray",
+      "type": "words"
+    },
+    {
+      "text": "F#m  E",
+      "type": "chords"
+    },
+    {
+      "text": "For you",
+      "type": "words"
+    },
+    {
+      "text": "D           C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Love might be for you to find",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But I will celebrate our",
+      "type": "words"
+    },
+    {
+      "text": "C#7#9         F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Love of yestarday",
+      "type": "words"
+    },
+    {
+      "text": "Em7         A7",
+      "type": "chords"
+    },
+    {
+      "text": "So long ago my heart without",
+      "type": "words"
+    },
+    {
+      "text": "Dmaj7",
+      "type": "chords"
+    },
+    {
+      "text": "Demanding",
+      "type": "words"
+    },
+    {
+      "text": "Em7               A7",
+      "type": "chords"
+    },
+    {
+      "text": "Informed me that no other",
+      "type": "words"
+    },
+    {
+      "text": "Dmaj7",
+      "type": "chords"
+    },
+    {
+      "text": "Love colud do",
+      "type": "words"
+    },
+    {
+      "text": "F#m7         B7",
+      "type": "chords"
+    },
+    {
+      "text": "But listen did I not though",
+      "type": "words"
+    },
+    {
+      "text": "Emaj7    C#7",
+      "type": "chords"
+    },
+    {
+      "text": "Understanding",
+      "type": "words"
+    },
+    {
+      "text": "F#m7",
+      "type": "chords"
+    },
+    {
+      "text": "Fell in love with one",
+      "type": "words"
+    },
+    {
+      "text": "G#7               C#4 C#",
+      "type": "chords"
+    },
+    {
+      "text": "Who would break my heart in two",
+      "type": "words"
+    },
+    {
+      "text": "F#m  E",
+      "type": "chords"
+    },
+    {
+      "text": "For you",
+      "type": "words"
+    },
+    {
+      "text": "D    C#m",
+      "type": "chords"
+    },
+    {
+      "text": "There might be another star",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But through my eyes the light",
+      "type": "words"
+    },
+    {
+      "text": "C#7#9          F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Of you it's all I see",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F#m Bm F#m Bm x4",
+      "type": "chords"
+    },
+    {
+      "text": "F#m  E",
+      "type": "chords"
+    },
+    {
+      "text": "For you",
+      "type": "words"
+    },
+    {
+      "text": "D    C#m",
+      "type": "chords"
+    },
+    {
+      "text": "There might be another song",
+      "type": "words"
+    },
+    {
+      "text": "Bm             C#7#9",
+      "type": "chords"
+    },
+    {
+      "text": "But in my heart your melody",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Will stay with me",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F#m Bm F#m Bm x4",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| F#m | E | D | C#m |",
+      "type": "chords"
+    },
+    {
+      "text": "| Bm | C#7#9 | F#m | F#m |",
+      "type": "chords"
+    }
+  ]
+}

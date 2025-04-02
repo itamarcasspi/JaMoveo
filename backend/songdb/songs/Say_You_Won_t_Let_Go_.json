@@ -1,0 +1,545 @@
+{
+  "songName": "Say You Won't Let Go ",
+  "lyrics": [
+    {
+      "text": "Capo on 3rd fret",
+      "type": "words"
+    },
+    {
+      "text": "Intro and during the song:",
+      "type": "words"
+    },
+    {
+      "text": "G D/F# Em7 C",
+      "type": "chords"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "I met you in the dark",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "You lit me up",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "You made me feel as though",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "I was enough",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We danced the night away,",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "We drank too much",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "I held your hair back when",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "You were throwing up",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "Then you smiled over your shoulder",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "For a minute,",
+      "type": "words"
+    },
+    {
+      "text": "I was stone-cold sober",
+      "type": "words"
+    },
+    {
+      "text": "Em7                    C",
+      "type": "chords"
+    },
+    {
+      "text": "I pulled you closer to my chest",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "And you asked me to stay over",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "I said, I already told ya",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "I think that you should",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Get some rest",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "I knew I loved you then",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "But you'd never know'",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "Cause I played it cool when I was",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Scared of letting go",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "I know I needed you",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "But I never showed",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "But I wanna stay with you",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Until we're grey and old",
+      "type": "words"
+    },
+    {
+      "text": "G                   D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Just say you won't let go",
+      "type": "words"
+    },
+    {
+      "text": "Em7                  C",
+      "type": "chords"
+    },
+    {
+      "text": "Just say you won't let go",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "I'll wake you up with some",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Breakfast in bed",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "I'll bring you coffee with",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "A kiss on your head",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "And I'll take the kids to school",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Wave them goodbye",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "And I'll thank my lucky stars",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "For that night",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "When you looked over your shoulder",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "For a minute,",
+      "type": "words"
+    },
+    {
+      "text": "I forget that I'm older",
+      "type": "words"
+    },
+    {
+      "text": "Em7                       C",
+      "type": "chords"
+    },
+    {
+      "text": "I wanna dance with you right now Oh",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "And you look as beautiful as ever",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "And I swear that everyday",
+      "type": "words"
+    },
+    {
+      "text": "You'll get better",
+      "type": "words"
+    },
+    {
+      "text": "Em7                        C",
+      "type": "chords"
+    },
+    {
+      "text": "You make me feel this way somehow",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so in love with you",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "And I hope you know",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "Darling your love is more",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Than worth its weight in gold",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We've come so far my dear",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Look how we've grown",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "And I wanna stay with you",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Until we're grey and old",
+      "type": "words"
+    },
+    {
+      "text": "G                   D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Just say you won't let go",
+      "type": "words"
+    },
+    {
+      "text": "Em7                  C",
+      "type": "chords"
+    },
+    {
+      "text": "Just say you won't let go",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "I wanna live with you",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Even when we're ghosts",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause you were always there for me",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "When I needed you most",
+      "type": "words"
+    },
+    {
+      "text": "G                     D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "I'm gonna love you till",
+      "type": "words"
+    },
+    {
+      "text": "My lungs give out",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "I promise till death we part",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Like in our vows",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "So I wrote this song for you,",
+      "type": "words"
+    },
+    {
+      "text": "D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Now everybody knows",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "That it's just you and me",
+      "type": "words"
+    },
+    {
+      "text": "C",
+      "type": "chords"
+    },
+    {
+      "text": "Until we're grey and old",
+      "type": "words"
+    },
+    {
+      "text": "G                         D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Just say you won't let go",
+      "type": "words"
+    },
+    {
+      "text": "Em7                       C",
+      "type": "chords"
+    },
+    {
+      "text": "Just say you won't let go",
+      "type": "words"
+    },
+    {
+      "text": "G                   D/F#",
+      "type": "chords"
+    },
+    {
+      "text": "Just say you won't let go",
+      "type": "words"
+    },
+    {
+      "text": "Em7                  C",
+      "type": "chords"
+    },
+    {
+      "text": "Oh, just say you won't let go",
+      "type": "words"
+    }
+  ]
+}

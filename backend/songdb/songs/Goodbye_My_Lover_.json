@@ -1,0 +1,485 @@
+{
+  "songName": "Goodbye My Lover ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "E C#m A B6 B E x2",
+      "type": "chords"
+    },
+    {
+      "text": "E                   C#m                A",
+      "type": "chords"
+    },
+    {
+      "text": "Did I disappoint you   or let you down?",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Should I be feeling guilty",
+      "type": "words"
+    },
+    {
+      "text": "B6      B     E",
+      "type": "chords"
+    },
+    {
+      "text": "Or let the judges frown?",
+      "type": "words"
+    },
+    {
+      "text": "E                        C#m",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause I saw the end   before we'd begun",
+      "type": "words"
+    },
+    {
+      "text": "Abm",
+      "type": "chords"
+    },
+    {
+      "text": "Yes I saw you were blinded",
+      "type": "words"
+    },
+    {
+      "text": "A         B6   B",
+      "type": "chords"
+    },
+    {
+      "text": "And I knew I had won",
+      "type": "words"
+    },
+    {
+      "text": "E                     C#m          A",
+      "type": "chords"
+    },
+    {
+      "text": "So I took what's mine  by eternal right",
+      "type": "words"
+    },
+    {
+      "text": "A                            B6   B E",
+      "type": "chords"
+    },
+    {
+      "text": "Took your soul out  into the night",
+      "type": "words"
+    },
+    {
+      "text": "E                       C#m",
+      "type": "chords"
+    },
+    {
+      "text": "It may be over   but it won't stop there",
+      "type": "words"
+    },
+    {
+      "text": "Abm                   A    B6   B",
+      "type": "chords"
+    },
+    {
+      "text": "I am here for you if you'd only care",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "You touched my heart you touched my soul",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "You changed my life and all my goals",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "And love is blind and that I knew when",
+      "type": "words"
+    },
+    {
+      "text": "B6     B",
+      "type": "chords"
+    },
+    {
+      "text": "My heart was blinded by you",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "I've kissed your lips and held your hand",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Shared your dreams and shared your bed",
+      "type": "words"
+    },
+    {
+      "text": "Abm                              A",
+      "type": "chords"
+    },
+    {
+      "text": "I know you well, I know your smell",
+      "type": "words"
+    },
+    {
+      "text": "B          E",
+      "type": "chords"
+    },
+    {
+      "text": "I've been addicted to you",
+      "type": "words"
+    },
+    {
+      "text": "E                C#m                    A",
+      "type": "chords"
+    },
+    {
+      "text": "Goodbye my lover     goodbye my friend",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one",
+      "type": "words"
+    },
+    {
+      "text": "B6       B           E",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one for me",
+      "type": "words"
+    },
+    {
+      "text": "E                C#m                    A",
+      "type": "chords"
+    },
+    {
+      "text": "Goodbye my lover     goodbye my friend",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one",
+      "type": "words"
+    },
+    {
+      "text": "B6           B      E  A  E",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one for me",
+      "type": "words"
+    },
+    {
+      "text": "E              C#m                 A",
+      "type": "chords"
+    },
+    {
+      "text": "I am a dreamer     and when I wake",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You can't break my spirit",
+      "type": "words"
+    },
+    {
+      "text": "B6               E",
+      "type": "chords"
+    },
+    {
+      "text": "It's my dreams you take",
+      "type": "words"
+    },
+    {
+      "text": "E                  C#m             Abm",
+      "type": "chords"
+    },
+    {
+      "text": "And as you move on,    remember me",
+      "type": "words"
+    },
+    {
+      "text": "Abm                    A            B6 B",
+      "type": "chords"
+    },
+    {
+      "text": "Remember us and all we   used to be",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "I've seen you cry, I've seen you smile",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "I've watched you sleeping for a while",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "I'd be the father of your child",
+      "type": "words"
+    },
+    {
+      "text": "A           B6       B",
+      "type": "chords"
+    },
+    {
+      "text": "I'd spend a lifetime with you",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "I know your fears and you know mine",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "We've had our doubts but now we're fine",
+      "type": "words"
+    },
+    {
+      "text": "Abm                             A",
+      "type": "chords"
+    },
+    {
+      "text": "And I love you, I swear that's true",
+      "type": "words"
+    },
+    {
+      "text": "B6     B     E",
+      "type": "chords"
+    },
+    {
+      "text": "I cannot live without you",
+      "type": "words"
+    },
+    {
+      "text": "E                C#m                    A",
+      "type": "chords"
+    },
+    {
+      "text": "Goodbye my lover     goodbye my friend",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one",
+      "type": "words"
+    },
+    {
+      "text": "B6                   E",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one for me",
+      "type": "words"
+    },
+    {
+      "text": "E                C#m                    A",
+      "type": "chords"
+    },
+    {
+      "text": "Goodbye my lover     goodbye my friend",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one",
+      "type": "words"
+    },
+    {
+      "text": "B6           B      E  A  E B A",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one for me",
+      "type": "words"
+    },
+    {
+      "text": "A             B                       C#m",
+      "type": "chords"
+    },
+    {
+      "text": "And I still   hold your hand  in mine",
+      "type": "words"
+    },
+    {
+      "text": "Abm                  A",
+      "type": "chords"
+    },
+    {
+      "text": "In mine when I'm asleep",
+      "type": "words"
+    },
+    {
+      "text": "C#m               Abm",
+      "type": "chords"
+    },
+    {
+      "text": "And I will    bare my soul   in time",
+      "type": "words"
+    },
+    {
+      "text": "A               B6   B E",
+      "type": "chords"
+    },
+    {
+      "text": "When I'm kneeling at your feet",
+      "type": "words"
+    },
+    {
+      "text": "E                C#m                    A",
+      "type": "chords"
+    },
+    {
+      "text": "Goodbye my lover     goodbye my friend",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one",
+      "type": "words"
+    },
+    {
+      "text": "B6                   E",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one for me",
+      "type": "words"
+    },
+    {
+      "text": "E                C#m                    A",
+      "type": "chords"
+    },
+    {
+      "text": "Goodbye my lover     goodbye my friend",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one",
+      "type": "words"
+    },
+    {
+      "text": "B6           B      E",
+      "type": "chords"
+    },
+    {
+      "text": "You have been the one for me",
+      "type": "words"
+    },
+    {
+      "text": "E               C#m               Abm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so hollow, baby,    I'm so hollow",
+      "type": "words"
+    },
+    {
+      "text": "A        B6     B E",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so, I'm so,  I'm so hollow",
+      "type": "words"
+    },
+    {
+      "text": "E                   C#m               Abm",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so hollow, baby,    I'm so hollow",
+      "type": "words"
+    },
+    {
+      "text": "A        B6     B E",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so, I'm so,   I'm so hollow",
+      "type": "words"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "E C#m A B6 B E",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "A B6 E E x2",
+      "type": "chords"
+    }
+  ]
+}

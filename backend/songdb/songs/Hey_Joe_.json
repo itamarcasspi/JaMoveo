@@ -1,0 +1,437 @@
+{
+  "songName": "Hey Joe ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "C G      D A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey Joe, where you goin' with that",
+      "type": "words"
+    },
+    {
+      "text": "E                   C",
+      "type": "chords"
+    },
+    {
+      "text": "gun in your hand?",
+      "type": "words"
+    },
+    {
+      "text": "C G     D         A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey Joe,  I said where you goin'",
+      "type": "words"
+    },
+    {
+      "text": "E                 C",
+      "type": "chords"
+    },
+    {
+      "text": "with that gun in your hand?",
+      "type": "words"
+    },
+    {
+      "text": "C                G                  D",
+      "type": "chords"
+    },
+    {
+      "text": "I'm goin down to shoot my old lady,",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "you know I caught her messin' 'round",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "with another man.",
+      "type": "words"
+    },
+    {
+      "text": "C                        G                  D",
+      "type": "chords"
+    },
+    {
+      "text": "Yeah,! I'm goin' down to shoot my old lady,",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "you know I caught her messin' 'round",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "with another man.",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Huh! And that ain't too cool.",
+      "type": "words"
+    },
+    {
+      "text": "C   G      D A                      E",
+      "type": "chords"
+    },
+    {
+      "text": "Uh, hey Joe,  I heard you shot your woman down",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "you shot her down.",
+      "type": "words"
+    },
+    {
+      "text": "C   G      D A                         E",
+      "type": "chords"
+    },
+    {
+      "text": "Uh, hey Joe,  I heard you shot you old lady down",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "you shot her down to the ground. Yeah!",
+      "type": "words"
+    },
+    {
+      "text": "C      G                D",
+      "type": "chords"
+    },
+    {
+      "text": "Yes, I did, I shot her,",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "you know I caught her messin' 'round,",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "messin' 'round town.",
+      "type": "words"
+    },
+    {
+      "text": "C         G                D",
+      "type": "chords"
+    },
+    {
+      "text": "Uh, yes I did, I shot her",
+      "type": "words"
+    },
+    {
+      "text": "A                           E",
+      "type": "chords"
+    },
+    {
+      "text": "you know I caught my old lady messin' 'round town.",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "And I gave her the gun and I shot her!",
+      "type": "words"
+    },
+    {
+      "text": "Solo:",
+      "type": "words"
+    },
+    {
+      "text": "C                   G",
+      "type": "chords"
+    },
+    {
+      "text": "D                A",
+      "type": "chords"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "E                 C                         G",
+      "type": "chords"
+    },
+    {
+      "text": "D                       A",
+      "type": "chords"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "C       G         D       A        E",
+      "type": "chords"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Alright",
+      "type": "words"
+    },
+    {
+      "text": "C   G         D A                   E",
+      "type": "chords"
+    },
+    {
+      "text": "Ah! Hey Joe uh,  where you gonna run to now",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "where you gonna run to?",
+      "type": "words"
+    },
+    {
+      "text": "C   G      D A                      E",
+      "type": "chords"
+    },
+    {
+      "text": "Ah! Hey Joe  uh, where you gonna run to now",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "where you, where you gonna go?",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Ah, dig it!",
+      "type": "words"
+    },
+    {
+      "text": "C          G             D A",
+      "type": "chords"
+    },
+    {
+      "text": "I'm goin' way down south,",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "way down south to Mexico way! Alright!",
+      "type": "words"
+    },
+    {
+      "text": "C         G             D A              E",
+      "type": "chords"
+    },
+    {
+      "text": "I'm goin' way down south, way down where I can be free!",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "C E C E x4",
+      "type": "chords"
+    },
+    {
+      "text": "(where you gonna...)",
+      "type": "words"
+    },
+    {
+      "text": "Ain't no one gonna find me babe!",
+      "type": "words"
+    },
+    {
+      "text": "Ain't no hangman gonna,",
+      "type": "words"
+    },
+    {
+      "text": "(Hey, Joe)",
+      "type": "words"
+    },
+    {
+      "text": "he ain't gonna put a rope around me!",
+      "type": "words"
+    },
+    {
+      "text": "(Joe where you gonna..)",
+      "type": "words"
+    },
+    {
+      "text": "You better belive it right now!",
+      "type": "words"
+    },
+    {
+      "text": "(...go?)",
+      "type": "words"
+    },
+    {
+      "text": "I gotta go now!",
+      "type": "words"
+    },
+    {
+      "text": "Hey, hey, hey Joe,",
+      "type": "words"
+    },
+    {
+      "text": "(Hey Joe)",
+      "type": "words"
+    },
+    {
+      "text": "you better run on down!",
+      "type": "words"
+    },
+    {
+      "text": "(where you gonna...)",
+      "type": "words"
+    },
+    {
+      "text": "Goodbye everybody. Ow!",
+      "type": "words"
+    },
+    {
+      "text": "(...go?)",
+      "type": "words"
+    },
+    {
+      "text": "Hey, hey Joe, what'd I say,",
+      "type": "words"
+    },
+    {
+      "text": "(Hey.......................Joe)",
+      "type": "words"
+    },
+    {
+      "text": "run on down.",
+      "type": "words"
+    },
+    {
+      "text": "(where you gonna go?)",
+      "type": "words"
+    },
+    {
+      "text": "(Hey)",
+      "type": "words"
+    },
+    {
+      "text": "Ah! Ah!",
+      "type": "words"
+    },
+    {
+      "text": "(Joe where you gonna go?)",
+      "type": "words"
+    },
+    {
+      "text": "Oh, alright.",
+      "type": "words"
+    },
+    {
+      "text": "3rd verse",
+      "type": "words"
+    },
+    {
+      "text": "Hey Joe, said now,",
+      "type": "words"
+    },
+    {
+      "text": "(Hey)",
+      "type": "words"
+    },
+    {
+      "text": "Yeah.",
+      "type": "words"
+    },
+    {
+      "text": "(where you gonna go?)",
+      "type": "words"
+    },
+    {
+      "text": "Hey Joe, I said,",
+      "type": "words"
+    },
+    {
+      "text": "(Hey)",
+      "type": "words"
+    },
+    {
+      "text": "where you goin' to run",
+      "type": "words"
+    },
+    {
+      "text": "(Joe!)",
+      "type": "words"
+    },
+    {
+      "text": "Well, dig it!",
+      "type": "words"
+    },
+    {
+      "text": "(Joe)",
+      "type": "words"
+    },
+    {
+      "text": "(...go?)",
+      "type": "words"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "C E C E x4",
+      "type": "chords"
+    }
+  ]
+}

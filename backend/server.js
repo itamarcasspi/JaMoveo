@@ -5,12 +5,12 @@ import cors from "cors";
 
 import connectToMongoDB from "./db/mongodb.connector.js";
 
-import authRoutes from "./routes/auth.routes.js"
-import scraperRoutes from "./routes/scraper.routes.js"
+import authRoutes from "./routes/auth.routes.js";
+import searchRoutes from "./routes/search.routes.js";
 
 import { app, server } from "./socket/socket.js";
 
-const __dirname = path.resolve()
+const __dirname = path.resolve();
 
 dotenv.config();
 
@@ -18,21 +18,20 @@ connectToMongoDB();
 
 const PORT = process.env.PORT;
 
-// const DEPLOY_URL = process.env.DEPLOY_URL;
-
-app.use(express.static(path.join(__dirname,"/frontend/dist")));
-
 app.use(express.json());
-// app.use(cors({
-//     origin: DEPLOY_URL,
-// }));
-app.use("/api/auth",authRoutes);
-app.use("/api/search",scraperRoutes);
 
-app.get("*",(req,res) => {
-    res.sendFile(path.join(__dirname,"frontend","dist","index.html"));
-})
+app.use(cors());
+app.options("*", cors());
 
-server.listen(PORT,() => {
-    console.log(`Listening on port ${PORT}`);
-})
+app.use("/api/auth", authRoutes);
+app.use("/api/search", searchRoutes);
+
+app.use(express.static(path.join(__dirname, "/frontend/dist")));
+
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "frontend", "dist", "index.html"));
+});
+
+server.listen(PORT, () => {
+  console.log(`Listening on port ${PORT}`);
+});

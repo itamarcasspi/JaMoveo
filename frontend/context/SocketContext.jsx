@@ -20,7 +20,7 @@ export const SocketContextProvider = ({ children }) => {
 
   useEffect(() => {
     if (authUser) {
-      const socket = io("https://jamoveo-qvvw.onrender.com/", {
+      const socket = io("https://jamoveo-qvvw.onrender.com", {
         query: {
           userId: authUser._id,
           role: authUser.role

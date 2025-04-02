@@ -10,7 +10,8 @@ import CheckBox from "../components/CheckBox";
 import useSession from "../hooks/useSession";
 import useSong from "../hooks/useSong";
 
-import lyrics from "../constants/wonderwall.json"
+import lyrics from "../constants/wonderwall.json";
+import DisplaySong from "../components/DisplaySong";
 
 export default function LivePage() {
   const { authUser } = useAuthContext();
@@ -24,7 +25,7 @@ export default function LivePage() {
   const [isQuitModalOpen, setIsQuitModalOpen] = useState(false);
 
   const [autoScroll, setAutoScroll] = useState(false);
-  const [scrollSpeed, setScrollSpeed] = useState(2); 
+  const [scrollSpeed, setScrollSpeed] = useState(2);
   //Setup auto scroll
   useEffect(() => {
     let interval;
@@ -37,18 +38,19 @@ export default function LivePage() {
     }
 
     return () => clearInterval(interval); // Cleanup
-  }, [autoScroll,scrollSpeed]);
+  }, [autoScroll, scrollSpeed]);
 
   //Check if user's admin, for quit btn
   useEffect(() => {
     setIsAdmin(authUser.role == "admin");
     setShowCords(authUser.instrument != "Singer");
   }, []);
+
   //Fetch song data using getSong hook
   useEffect(() => {
     async function fetchSong() {
-      const fetch = await getSong(sessionData.at(2));
-      setSongData(fetch.songLyrics);
+      const fetch = await getSong(sessionData.nameId);
+      setSongData(fetch);
     }
     fetchSong();
   }, [sessionData]);
@@ -72,9 +74,9 @@ export default function LivePage() {
         <div className="fixed flex items-center top-0 left-0 right-0 backdrop-blur-md p-4 shadow-lg z-10">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-2xl font-bold text-center">
-              {sessionData.at(0)}
+              {sessionData.song}
             </h1>
-            <p className="text-center text-gray-600">{sessionData.at(1)}</p>
+            <p className="text-center text-gray-600">{sessionData.artist}</p>
           </div>
           {isAdmin && (
             <div
@@ -87,7 +89,10 @@ export default function LivePage() {
             </div>
           )}
         </div>
-        <div className="pt-36 flex flex-col items-center text-2xl py-8">
+        
+        {songData &&  songData.lyrics && <DisplaySong lyrics = {songData.lyrics} isSinger = {authUser.instrument == "singer"}></DisplaySong>}
+
+        {/* <div className="pt-36 flex flex-col items-center text-2xl py-8">
           <div className="ml-4 mr-4 py-8 block max-w-full whitespace-nowrap text-[min(8vw,3rem)] w-fit">
             {songData.length > 0 ?  songData.map((line, index) => {
               return (
@@ -112,7 +117,7 @@ export default function LivePage() {
             )}
             
           </div>
-        </div>
+        </div> */}
       </div>
       <CheckBox
         autoScroll={autoScroll}
@@ -120,7 +125,6 @@ export default function LivePage() {
         scrollSpeed={scrollSpeed}
         setScrollSpeed={setScrollSpeed}
       />
-
     </div>
   );
 }

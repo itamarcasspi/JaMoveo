@@ -1,0 +1,389 @@
+{
+  "songName": "Hey ",
+  "lyrics": [
+    {
+      "text": "During the whole song:",
+      "type": "words"
+    },
+    {
+      "text": "Hey!",
+      "type": "words"
+    },
+    {
+      "text": "F#             Bm       D         G",
+      "type": "chords"
+    },
+    {
+      "text": "Been trying to meet you    ammmmm",
+      "type": "words"
+    },
+    {
+      "text": "F#7             Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Hey!  must be a devil  between us",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "Or whores  in my head",
+      "type": "words"
+    },
+    {
+      "text": "G                  F#7",
+      "type": "chords"
+    },
+    {
+      "text": "Whores at my door  whores in my bed",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "But hey!",
+      "type": "words"
+    },
+    {
+      "text": "D             G",
+      "type": "chords"
+    },
+    {
+      "text": "Where    have you",
+      "type": "words"
+    },
+    {
+      "text": "F#7   Bm                   D",
+      "type": "chords"
+    },
+    {
+      "text": "Been     if you go  I will surely die",
+      "type": "words"
+    },
+    {
+      "text": "G               Em                Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  heeyyy     we're chained",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  he heyy",
+      "type": "words"
+    },
+    {
+      "text": "Em                   Bm",
+      "type": "chords"
+    },
+    {
+      "text": "He heyy   we're chained    (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  he heyy  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained he heyy (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained he heyy (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained he heyy (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "G F#7 Bm D G F#7 Bm D",
+      "type": "chords"
+    },
+    {
+      "text": "G F#7 Bm D G F#7 Bm D",
+      "type": "chords"
+    },
+    {
+      "text": "G F#7 Bm D",
+      "type": "chords"
+    },
+    {
+      "text": "G   F#7                     Bm   D     G",
+      "type": "chords"
+    },
+    {
+      "text": "Uh!     said the man to the lady   ummmm",
+      "type": "words"
+    },
+    {
+      "text": "F#7                      Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Uh! said the lady to the man she adored",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "And the whores like a choir",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "Go uh!  all night",
+      "type": "words"
+    },
+    {
+      "text": "F#7                     Bm",
+      "type": "chords"
+    },
+    {
+      "text": "And mary ain't you tired of this",
+      "type": "words"
+    },
+    {
+      "text": "D     G       F#7    Bm",
+      "type": "chords"
+    },
+    {
+      "text": "Uh!   is    the     sound",
+      "type": "words"
+    },
+    {
+      "text": "Bm                              D",
+      "type": "chords"
+    },
+    {
+      "text": "That the mother makes  when the baby breaks",
+      "type": "words"
+    },
+    {
+      "text": "G               Em                Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  heeyyy     we're chained",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  he heyy",
+      "type": "words"
+    },
+    {
+      "text": "Em                   Bm",
+      "type": "chords"
+    },
+    {
+      "text": "He heyy   we're chained    (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  he heyy  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained he heyy (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained he heyy (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained  (bang)",
+      "type": "words"
+    },
+    {
+      "text": "G",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained he heyy (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Em",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained (bang)",
+      "type": "words"
+    },
+    {
+      "text": "Bm",
+      "type": "chords"
+    },
+    {
+      "text": "We're chained",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "D G F# F#7 x4",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "D G F# F#7 x4",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "F# F#7 D G x4",
+      "type": "chords"
+    }
+  ]
+}

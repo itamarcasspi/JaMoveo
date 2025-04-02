@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 function CheckBox({ autoScroll, setAutoScroll, scrollSpeed, setScrollSpeed }) {
   return (

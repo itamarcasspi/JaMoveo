@@ -8,12 +8,14 @@ import useSearch from "../hooks/useSearch";
 
 export default function AdminMain() {
   const [searchValue, setSearch] = useState("");
-  const { loading, search, songList } = useSearch();
+  const { loading } = useSearch();
   const navigate = useNavigate();
+
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const output = await search(searchValue);
-    navigate(`/admin-result?query=${encodeURIComponent(searchValue)}`);
+    if (searchValue) {
+      navigate(`/admin-result?query=${encodeURIComponent(searchValue)}`);
+    }
   };
 
   return (
@@ -31,24 +33,20 @@ export default function AdminMain() {
           <div className="flex justify-center items-center">
             <div
               className="animate-ping duration-[1s,15s] mr-2 w-1 h-1 bg-gray-900 rounded-full"
-              style={{animationDuration: '1.5s',
-                animationDelay: `0s`,
-              
-                
-              }}
+              style={{ animationDuration: "1.5s", animationDelay: `0s` }}
             ></div>
             <div
               className="animate-ping mr-2 w-1 h-1 font-bold bg-gray-900 rounded-full"
               style={{
                 animationDelay: `0.5s`,
-                animationDuration: '1.5s'
+                animationDuration: "1.5s",
               }}
             ></div>
             <div
               className="animate-ping  w-1 h-1 bg-gray-900 rounded-full"
               style={{
                 animationDelay: `1s`,
-                animationDuration: '1.5s'
+                animationDuration: "1.5s",
               }}
             ></div>
           </div>

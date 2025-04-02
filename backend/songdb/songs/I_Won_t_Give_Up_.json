@@ -1,0 +1,413 @@
+{
+  "songName": "I Won't Give Up ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "A/E E A/E E A/E E B B/F# B",
+      "type": "chords"
+    },
+    {
+      "text": "A    E",
+      "type": "chords"
+    },
+    {
+      "text": "When I look into your eyes",
+      "type": "words"
+    },
+    {
+      "text": "A      E",
+      "type": "chords"
+    },
+    {
+      "text": "It's like watching the night sky",
+      "type": "words"
+    },
+    {
+      "text": "A  E",
+      "type": "chords"
+    },
+    {
+      "text": "Or a beautiful sunrise",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "There's so much they hold",
+      "type": "words"
+    },
+    {
+      "text": "A    E",
+      "type": "chords"
+    },
+    {
+      "text": "And just like them old stars",
+      "type": "words"
+    },
+    {
+      "text": "A       E",
+      "type": "chords"
+    },
+    {
+      "text": "I see that you've come so far",
+      "type": "words"
+    },
+    {
+      "text": "A   E",
+      "type": "chords"
+    },
+    {
+      "text": "To be right where you are",
+      "type": "words"
+    },
+    {
+      "text": "B    B/F# B",
+      "type": "chords"
+    },
+    {
+      "text": "How old is your soul?",
+      "type": "words"
+    },
+    {
+      "text": "A     E",
+      "type": "chords"
+    },
+    {
+      "text": "I won't give up on us",
+      "type": "words"
+    },
+    {
+      "text": "C#m       B",
+      "type": "chords"
+    },
+    {
+      "text": "Even if the skies get rough",
+      "type": "words"
+    },
+    {
+      "text": "A      E",
+      "type": "chords"
+    },
+    {
+      "text": "I'm giving you all my love",
+      "type": "words"
+    },
+    {
+      "text": "B  Bsus4 B",
+      "type": "chords"
+    },
+    {
+      "text": "I'm still looking up",
+      "type": "words"
+    },
+    {
+      "text": "A    E",
+      "type": "chords"
+    },
+    {
+      "text": "And when you're needing your space",
+      "type": "words"
+    },
+    {
+      "text": "A   E",
+      "type": "chords"
+    },
+    {
+      "text": "To do some navigating",
+      "type": "words"
+    },
+    {
+      "text": "A         E",
+      "type": "chords"
+    },
+    {
+      "text": "I'll be here patiently waiting",
+      "type": "words"
+    },
+    {
+      "text": "B   Bsus4 B",
+      "type": "chords"
+    },
+    {
+      "text": "To see what you find",
+      "type": "words"
+    },
+    {
+      "text": "A         E",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause even the stars they burn",
+      "type": "words"
+    },
+    {
+      "text": "C#m          B",
+      "type": "chords"
+    },
+    {
+      "text": "Some even fall to the earth",
+      "type": "words"
+    },
+    {
+      "text": "A      E",
+      "type": "chords"
+    },
+    {
+      "text": "We've got a lot to learn",
+      "type": "words"
+    },
+    {
+      "text": "B       Bsus4 B",
+      "type": "chords"
+    },
+    {
+      "text": "God knows we're worth it",
+      "type": "words"
+    },
+    {
+      "text": "Amajor7 Aadd13 Amajor7 Aadd13",
+      "type": "chords"
+    },
+    {
+      "text": "No, I won't give up",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "I don't wanna be someone",
+      "type": "words"
+    },
+    {
+      "text": "F#m                 F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Who walks away so easily",
+      "type": "words"
+    },
+    {
+      "text": "I'm here to stay",
+      "type": "words"
+    },
+    {
+      "text": "F#m                      B",
+      "type": "chords"
+    },
+    {
+      "text": "And make the difference that I can make",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "Our differences",
+      "type": "words"
+    },
+    {
+      "text": "F#m                    F#m",
+      "type": "chords"
+    },
+    {
+      "text": "They do a lot to teach us how to use",
+      "type": "words"
+    },
+    {
+      "text": "F#m",
+      "type": "chords"
+    },
+    {
+      "text": "The tools and gifts we got yeah",
+      "type": "words"
+    },
+    {
+      "text": "B            Bsus4 B",
+      "type": "chords"
+    },
+    {
+      "text": "We got a lot at stake",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "And in the end you're still my friend",
+      "type": "words"
+    },
+    {
+      "text": "D",
+      "type": "chords"
+    },
+    {
+      "text": "At least we did intend",
+      "type": "words"
+    },
+    {
+      "text": "D                     D",
+      "type": "chords"
+    },
+    {
+      "text": "For us to work we didn't break we didn't burn",
+      "type": "words"
+    },
+    {
+      "text": "B/Eb",
+      "type": "chords"
+    },
+    {
+      "text": "We had to learn",
+      "type": "words"
+    },
+    {
+      "text": "B/Eb                  B/Eb",
+      "type": "chords"
+    },
+    {
+      "text": "How to bend without the world caving in",
+      "type": "words"
+    },
+    {
+      "text": "D             D           B/Eb",
+      "type": "chords"
+    },
+    {
+      "text": "I had to learn what Ive got and what I'm not",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "And who I am",
+      "type": "words"
+    },
+    {
+      "text": "A     E",
+      "type": "chords"
+    },
+    {
+      "text": "I won't give up on us",
+      "type": "words"
+    },
+    {
+      "text": "C#m       B",
+      "type": "chords"
+    },
+    {
+      "text": "Even if the skies get rough",
+      "type": "words"
+    },
+    {
+      "text": "A      E",
+      "type": "chords"
+    },
+    {
+      "text": "I'm giving you all my love",
+      "type": "words"
+    },
+    {
+      "text": "C#m  B",
+      "type": "chords"
+    },
+    {
+      "text": "I'm still looking up",
+      "type": "words"
+    },
+    {
+      "text": "A     E",
+      "type": "chords"
+    },
+    {
+      "text": "I won't give up on us",
+      "type": "words"
+    },
+    {
+      "text": "(no I'm not giving up)",
+      "type": "words"
+    },
+    {
+      "text": "C#m    B/Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Got knows I'm tough enough",
+      "type": "words"
+    },
+    {
+      "text": "(I am tough, I am loved)",
+      "type": "words"
+    },
+    {
+      "text": "A      E",
+      "type": "chords"
+    },
+    {
+      "text": "We've got a lot to learn",
+      "type": "words"
+    },
+    {
+      "text": "(we're alive, we are loved)",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "Got knows we're worth it",
+      "type": "words"
+    },
+    {
+      "text": "Bsus4   B",
+      "type": "chords"
+    },
+    {
+      "text": "(and we're worth it)",
+      "type": "words"
+    },
+    {
+      "text": "A     Eadd9",
+      "type": "chords"
+    },
+    {
+      "text": "I won't give up on us",
+      "type": "words"
+    },
+    {
+      "text": "C#m       B",
+      "type": "chords"
+    },
+    {
+      "text": "Even if the skies get rough",
+      "type": "words"
+    },
+    {
+      "text": "A      E",
+      "type": "chords"
+    },
+    {
+      "text": "I'm giving you all my love",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "I'm still looking up",
+      "type": "words"
+    }
+  ]
+}

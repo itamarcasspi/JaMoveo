@@ -1,0 +1,453 @@
+{
+  "songName": "Bohemian Rhapsody ",
+  "lyrics": [
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "Open your eyes",
+      "type": "words"
+    },
+    {
+      "text": "Bb                    Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Look up to the skies and see",
+      "type": "words"
+    },
+    {
+      "text": "Cm7                  F",
+      "type": "chords"
+    },
+    {
+      "text": "I'm just a poor boy, I need no sympathy",
+      "type": "words"
+    },
+    {
+      "text": "B    Bb     A   Bb   B     Bb    A      Bb",
+      "type": "chords"
+    },
+    {
+      "text": "easy come, eays go, little high, little low",
+      "type": "words"
+    },
+    {
+      "text": "Eb             Bb/D",
+      "type": "chords"
+    },
+    {
+      "text": "Any way the wind blows",
+      "type": "words"
+    },
+    {
+      "text": "C#dim            F7/C      F7/Eb  Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Doesn't realy matter to me     to me.",
+      "type": "words"
+    },
+    {
+      "text": "Bb                 Gm",
+      "type": "chords"
+    },
+    {
+      "text": "Mama   just killed a man",
+      "type": "words"
+    },
+    {
+      "text": "Cm                              Cm7",
+      "type": "chords"
+    },
+    {
+      "text": "put a gun against his head, pulled my trigger",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "Now he's dead",
+      "type": "words"
+    },
+    {
+      "text": "Bb               Gm              Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Mama  life had just begun, but now",
+      "type": "words"
+    },
+    {
+      "text": "G+5/B   Eb/Bb    Adim",
+      "type": "chords"
+    },
+    {
+      "text": "I've gone and thrown it all away",
+      "type": "words"
+    },
+    {
+      "text": "Eb   Bb/D           Fm        C/E Ab/Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Mama Oooo  didn't mean to make you cry",
+      "type": "words"
+    },
+    {
+      "text": "Ddim    Bb          Bb6   Bb7",
+      "type": "chords"
+    },
+    {
+      "text": "if I'm not back again this time",
+      "type": "words"
+    },
+    {
+      "text": "Eb",
+      "type": "chords"
+    },
+    {
+      "text": "tomarrow,",
+      "type": "words"
+    },
+    {
+      "text": "Bb/D    Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Carry on, carry on as",
+      "type": "words"
+    },
+    {
+      "text": "Abm          Eb    Ab/Eb Eb Cdim Bb7b9 Bb",
+      "type": "chords"
+    },
+    {
+      "text": "if nothing really matters",
+      "type": "words"
+    },
+    {
+      "text": "Gm",
+      "type": "chords"
+    },
+    {
+      "text": "Too late, my time has come",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Sent shivers down my spine",
+      "type": "words"
+    },
+    {
+      "text": "Cm7                      F",
+      "type": "chords"
+    },
+    {
+      "text": "Body's achin' all the time",
+      "type": "words"
+    },
+    {
+      "text": "Bb                      Gm",
+      "type": "chords"
+    },
+    {
+      "text": "GooC#ye everybody, I've got to go,",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Gotta leave you all",
+      "type": "words"
+    },
+    {
+      "text": "G+5/B     Eb/Bb  Adim    Abmaj7   Eb/G",
+      "type": "chords"
+    },
+    {
+      "text": "behind and face the truth.",
+      "type": "words"
+    },
+    {
+      "text": "Eb    Bb/D Cm  Fm       C/E Ab/Eb",
+      "type": "chords"
+    },
+    {
+      "text": "Mama Ooo     I don't want to die",
+      "type": "words"
+    },
+    {
+      "text": "Ddim  Bb          Bb6          Bb7",
+      "type": "chords"
+    },
+    {
+      "text": "I sometimes wish I'd never been born at all",
+      "type": "words"
+    },
+    {
+      "text": "D/A  A Adim     A        D/A   A     Adim",
+      "type": "chords"
+    },
+    {
+      "text": "I  see  a little  silhouetto  of  a  man",
+      "type": "words"
+    },
+    {
+      "text": "A     D/A  A    D/A  A         Adim      A  D/A  A",
+      "type": "chords"
+    },
+    {
+      "text": "Scarmouch  Scarmouch  will  you  do  the  fandango?",
+      "type": "words"
+    },
+    {
+      "text": "C#/Ab    Ab       C#/Ab   Ab",
+      "type": "chords"
+    },
+    {
+      "text": "Thunder  bolts  and  lightening",
+      "type": "words"
+    },
+    {
+      "text": "C/G         E7          A",
+      "type": "chords"
+    },
+    {
+      "text": "very  very  frightening  me",
+      "type": "words"
+    },
+    {
+      "text": "Galileo  Galileo Galileo",
+      "type": "words"
+    },
+    {
+      "text": "Galileofigaro Mangnifico oh oh oh",
+      "type": "words"
+    },
+    {
+      "text": "B    Bb        A    Bb   B    Bb   A    Bb",
+      "type": "chords"
+    },
+    {
+      "text": "I'm  just  a  poor  boy  nobody  loves  me",
+      "type": "words"
+    },
+    {
+      "text": "Ab/Eb   Eb     Ebdim Eb    Ab/Eb   Eb   Ebdim   Eb",
+      "type": "chords"
+    },
+    {
+      "text": "He's  just  a  poor  boy,  from  a  poor  family",
+      "type": "words"
+    },
+    {
+      "text": "Ab                  Eb/G            F7       Bb",
+      "type": "chords"
+    },
+    {
+      "text": "spare  him  his  life  from  this  monstrosity",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Ab/Eb Eb Cdim Bb7b9",
+      "type": "chords"
+    },
+    {
+      "text": "B     Bb    A     Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Easy  come  easy  go",
+      "type": "words"
+    },
+    {
+      "text": "B            Bb         Bbdim",
+      "type": "chords"
+    },
+    {
+      "text": "will  you  let  me  go?",
+      "type": "words"
+    },
+    {
+      "text": "Bb5  Eb Bb5 Eb Bbsus4  Bb     Bbsus4   Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Bismillah   NO,  we  will  not  let  you  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Let  him  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb  Eb Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Bismillah  we  will",
+      "type": "words"
+    },
+    {
+      "text": "Bbsus4  Bb Bbsus4 Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Not   let  you  go      let  him  go",
+      "type": "words"
+    },
+    {
+      "text": "Bb  Eb Bb           Bbsus4  Bb",
+      "type": "chords"
+    },
+    {
+      "text": "bismillah  we  will  not  let",
+      "type": "words"
+    },
+    {
+      "text": "Bbsus4 Bb",
+      "type": "chords"
+    },
+    {
+      "text": "you  go      Let  me   go",
+      "type": "words"
+    },
+    {
+      "text": "Bbsus4 Bb Bbsus4 Bb",
+      "type": "chords"
+    },
+    {
+      "text": "will  not  let  you  go   let  me  go",
+      "type": "words"
+    },
+    {
+      "text": "Bbsus4 Bb Bbsus4 Bb",
+      "type": "chords"
+    },
+    {
+      "text": "will  not  let  you  go",
+      "type": "words"
+    },
+    {
+      "text": "Let  me  go oh  oh  oh  oh oh",
+      "type": "words"
+    },
+    {
+      "text": "A5   D   C#  Gb Bb5 Eb5",
+      "type": "chords"
+    },
+    {
+      "text": "No  no  no  no  no  no  no  Oh mamamia mamamia",
+      "type": "words"
+    },
+    {
+      "text": "Eb Ab Eb        Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Mamamia  let  me  go",
+      "type": "words"
+    },
+    {
+      "text": "Eb    Ab        D7",
+      "type": "chords"
+    },
+    {
+      "text": "Beelzebub  has  a  devil  put",
+      "type": "words"
+    },
+    {
+      "text": "Gm         Bb5",
+      "type": "chords"
+    },
+    {
+      "text": "aside  for  me   for  me  for me",
+      "type": "words"
+    },
+    {
+      "text": "Cm               Gm       Cm        Gm",
+      "type": "chords"
+    },
+    {
+      "text": "Nothing really matters, anyone can see",
+      "type": "words"
+    },
+    {
+      "text": "Cm               Abm",
+      "type": "chords"
+    },
+    {
+      "text": "nothing raelly matters",
+      "type": "words"
+    },
+    {
+      "text": "Ab/Bb                     Eb   Ab/Eb   Eb",
+      "type": "chords"
+    },
+    {
+      "text": "nothing really matters to me",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Ebdim Bb/D C#maj13 C C#dim C F",
+      "type": "chords"
+    },
+    {
+      "text": "Bb     F      Fdim  C7sus4     F",
+      "type": "chords"
+    },
+    {
+      "text": "Any way the wind blows",
+      "type": "words"
+    },
+    {
+      "text": "Solo:",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Cm7 B Gm Bb x2",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Cm7 B Gm Bb x2",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "Gm Bb Cm7 B x2",
+      "type": "chords"
+    }
+  ]
+}

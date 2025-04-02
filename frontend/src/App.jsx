@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
 
 import Login from "./pages/Login.jsx";
-import Signup from "./pages/Signup.jsx";
+import PlayerSignup from "./pages/Signup.jsx";
 import AdminSignup from "./pages/AdminSignup.jsx";
 
 import PlayerHome from "./pages/PlayerHome.jsx";
@@ -48,7 +48,7 @@ function App() {
         />
         <Route
           path="/signup"
-          element={authUser ? <Navigate to="/" /> : <Signup />}
+          element={authUser ? <Navigate to="/" /> : <PlayerSignup />}
         />
         <Route
           path="/admin-signup"

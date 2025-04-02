@@ -1,0 +1,497 @@
+{
+  "songName": "Wonderwall ",
+  "lyrics": [
+    {
+      "text": "Capo on the second fret",
+      "type": "words"
+    },
+    {
+      "text": "For the original version.",
+      "type": "words"
+    },
+    {
+      "text": "Em7:    022033",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9:  x32033",
+      "type": "words"
+    },
+    {
+      "text": "A4/7:   x02233",
+      "type": "words"
+    },
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "Em7 G D4 A4/7 x4",
+      "type": "chords"
+    },
+    {
+      "text": "Em7      G",
+      "type": "chords"
+    },
+    {
+      "text": "Today is gonna be the day",
+      "type": "words"
+    },
+    {
+      "text": "D4",
+      "type": "chords"
+    },
+    {
+      "text": "That they're gonna throw it back",
+      "type": "words"
+    },
+    {
+      "text": "A4/7  Em7",
+      "type": "chords"
+    },
+    {
+      "text": "To you",
+      "type": "words"
+    },
+    {
+      "text": "Em7        G",
+      "type": "chords"
+    },
+    {
+      "text": "By now you should've somehow",
+      "type": "words"
+    },
+    {
+      "text": "D4                   A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "Realized what you gotta do",
+      "type": "words"
+    },
+    {
+      "text": "Em7                   G",
+      "type": "chords"
+    },
+    {
+      "text": "I don't believe that anybody",
+      "type": "words"
+    },
+    {
+      "text": "D4              A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "Feels the way I do",
+      "type": "words"
+    },
+    {
+      "text": "C   D4 A4/7   Em7",
+      "type": "chords"
+    },
+    {
+      "text": "About you now",
+      "type": "words"
+    },
+    {
+      "text": "Em7           G",
+      "type": "chords"
+    },
+    {
+      "text": "Backbeat, the word is on the street",
+      "type": "words"
+    },
+    {
+      "text": "D4                    A4/7 Em7",
+      "type": "chords"
+    },
+    {
+      "text": "That the fire in your heart is out",
+      "type": "words"
+    },
+    {
+      "text": "Em7             G",
+      "type": "chords"
+    },
+    {
+      "text": "I'm sure you've heard it all before",
+      "type": "words"
+    },
+    {
+      "text": "D4                 A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "But you never really had a doubt",
+      "type": "words"
+    },
+    {
+      "text": "Em7                  G",
+      "type": "chords"
+    },
+    {
+      "text": "I don't believe that anybody",
+      "type": "words"
+    },
+    {
+      "text": "D4              A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "Feels the way I do",
+      "type": "words"
+    },
+    {
+      "text": "Em7  G D4 A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "About you now",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9",
+      "type": "chords"
+    },
+    {
+      "text": "And all the roads we",
+      "type": "words"
+    },
+    {
+      "text": "D4               Em7",
+      "type": "chords"
+    },
+    {
+      "text": "Have to walk are winding",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9               D4",
+      "type": "chords"
+    },
+    {
+      "text": "And all the lights that lead us",
+      "type": "words"
+    },
+    {
+      "text": "Em7",
+      "type": "chords"
+    },
+    {
+      "text": "There are blinding",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9          E",
+      "type": "chords"
+    },
+    {
+      "text": "There are many things that I",
+      "type": "words"
+    },
+    {
+      "text": "G       G/F#    Em7",
+      "type": "chords"
+    },
+    {
+      "text": "Would like to say to  you",
+      "type": "words"
+    },
+    {
+      "text": "G          A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "But I don't know how",
+      "type": "words"
+    },
+    {
+      "text": "Chorus:",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9  Em7   G",
+      "type": "chords"
+    },
+    {
+      "text": "Because maybe",
+      "type": "words"
+    },
+    {
+      "text": "Em7                   Cadd9    Em7  G",
+      "type": "chords"
+    },
+    {
+      "text": "You're gonna be the one that saves me",
+      "type": "words"
+    },
+    {
+      "text": "Em7       Cadd9  Em7  G",
+      "type": "chords"
+    },
+    {
+      "text": "And after all",
+      "type": "words"
+    },
+    {
+      "text": "Em7      Cadd9 Em7 G Em7",
+      "type": "chords"
+    },
+    {
+      "text": "You're my wonderwall",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Em7       G",
+      "type": "chords"
+    },
+    {
+      "text": "Today was gonna be the day",
+      "type": "words"
+    },
+    {
+      "text": "D4                     A4/7 Em7",
+      "type": "chords"
+    },
+    {
+      "text": "But they'll never throw it back to you",
+      "type": "words"
+    },
+    {
+      "text": "Em7        G",
+      "type": "chords"
+    },
+    {
+      "text": "By now you should've somehow",
+      "type": "words"
+    },
+    {
+      "text": "D4                       A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "Realized what you're not to do",
+      "type": "words"
+    },
+    {
+      "text": "Em7                  G",
+      "type": "chords"
+    },
+    {
+      "text": "I don't believe that anybody",
+      "type": "words"
+    },
+    {
+      "text": "D4              A4/7           Em7  G D4 A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "Feels the way I do   about you now",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9",
+      "type": "chords"
+    },
+    {
+      "text": "And all the roads",
+      "type": "words"
+    },
+    {
+      "text": "D4                  Em7",
+      "type": "chords"
+    },
+    {
+      "text": "That lead you there were winding",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9",
+      "type": "chords"
+    },
+    {
+      "text": "And all the lights",
+      "type": "words"
+    },
+    {
+      "text": "D4                 Em7",
+      "type": "chords"
+    },
+    {
+      "text": "That light the way are blinding",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9          E",
+      "type": "chords"
+    },
+    {
+      "text": "There are many things that I",
+      "type": "words"
+    },
+    {
+      "text": "G        G/F#    Em7",
+      "type": "chords"
+    },
+    {
+      "text": "Would like  to say to  you,",
+      "type": "words"
+    },
+    {
+      "text": "G          A4/7",
+      "type": "chords"
+    },
+    {
+      "text": "But I don't know how",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9  Em7   G",
+      "type": "chords"
+    },
+    {
+      "text": "I sad maybe",
+      "type": "words"
+    },
+    {
+      "text": "Em7                   Cadd9    Em7  G",
+      "type": "chords"
+    },
+    {
+      "text": "You're gonna be the one that saves me",
+      "type": "words"
+    },
+    {
+      "text": "Em7       Cadd9  Em7  G",
+      "type": "chords"
+    },
+    {
+      "text": "And after all",
+      "type": "words"
+    },
+    {
+      "text": "Em7         Cadd9 Em7  G Em7",
+      "type": "chords"
+    },
+    {
+      "text": "You're my wonderwall",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9         Em7     G",
+      "type": "chords"
+    },
+    {
+      "text": "I sad maybe  (I sad maybe)",
+      "type": "words"
+    },
+    {
+      "text": "Em7                   Cadd9    Em7  G",
+      "type": "chords"
+    },
+    {
+      "text": "You're gonna be the one that saves me",
+      "type": "words"
+    },
+    {
+      "text": "Em7       Cadd9  Em7  G",
+      "type": "chords"
+    },
+    {
+      "text": "And after all",
+      "type": "words"
+    },
+    {
+      "text": "Em7         Cadd9 Em7  G Em7",
+      "type": "chords"
+    },
+    {
+      "text": "You're my wonderwall",
+      "type": "words"
+    },
+    {
+      "text": "Cadd9         Em7     G",
+      "type": "chords"
+    },
+    {
+      "text": "I sad maybe  (I sad maybe)",
+      "type": "words"
+    },
+    {
+      "text": "Em7                   Cadd9",
+      "type": "chords"
+    },
+    {
+      "text": "You're gonna be the one that saves me",
+      "type": "words"
+    },
+    {
+      "text": "Em7       G",
+      "type": "chords"
+    },
+    {
+      "text": "(That saves me)",
+      "type": "words"
+    },
+    {
+      "text": "Em7                   Cadd9",
+      "type": "chords"
+    },
+    {
+      "text": "You're gonna be the one that saves me",
+      "type": "words"
+    },
+    {
+      "text": "Em7       G",
+      "type": "chords"
+    },
+    {
+      "text": "(That saves me)",
+      "type": "words"
+    },
+    {
+      "text": "Em7                   Cadd9",
+      "type": "chords"
+    },
+    {
+      "text": "You're gonna be the one that saves me",
+      "type": "words"
+    },
+    {
+      "text": "Em7       G Em7",
+      "type": "chords"
+    },
+    {
+      "text": "(That saves me)",
+      "type": "words"
+    },
+    {
+      "text": "Outro: x4",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "D4 Em7 Em7 Em7 x4",
+      "type": "chords"
+    },
+    {
+      "text": "Cadd9   Em7    G       Em7",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "D4 Em7 Em7 Em7 x4",
+      "type": "chords"
+    }
+  ]
+}

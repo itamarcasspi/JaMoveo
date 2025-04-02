@@ -1,0 +1,365 @@
+{
+  "songName": "Wonderful World (Don't know much about history) ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "B Abm B",
+      "type": "chords"
+    },
+    {
+      "text": "B                     Abm     E",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about history",
+      "type": "words"
+    },
+    {
+      "text": "E                F#      B",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much biology",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about",
+      "type": "words"
+    },
+    {
+      "text": "Abm          E",
+      "type": "chords"
+    },
+    {
+      "text": "a science book",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about",
+      "type": "words"
+    },
+    {
+      "text": "F#7          B",
+      "type": "chords"
+    },
+    {
+      "text": "the French I took",
+      "type": "words"
+    },
+    {
+      "text": "B                  E          B",
+      "type": "chords"
+    },
+    {
+      "text": "But I do know that I love you",
+      "type": "words"
+    },
+    {
+      "text": "B                      E",
+      "type": "chords"
+    },
+    {
+      "text": "And I know that if you love me, too",
+      "type": "words"
+    },
+    {
+      "text": "F#                         B",
+      "type": "chords"
+    },
+    {
+      "text": "What a wonderful world this would be",
+      "type": "words"
+    },
+    {
+      "text": "B                       Abm     E",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about geography",
+      "type": "words"
+    },
+    {
+      "text": "E                    F#      B",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much trigonometry",
+      "type": "words"
+    },
+    {
+      "text": "B                     Abm        E",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about algebra",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know what a slide",
+      "type": "words"
+    },
+    {
+      "text": "F#           B",
+      "type": "chords"
+    },
+    {
+      "text": "rule is for",
+      "type": "words"
+    },
+    {
+      "text": "B                     E          B",
+      "type": "chords"
+    },
+    {
+      "text": "But I do know one and one is two",
+      "type": "words"
+    },
+    {
+      "text": "B                     E",
+      "type": "chords"
+    },
+    {
+      "text": "And if this one could be with you",
+      "type": "words"
+    },
+    {
+      "text": "F#                         B",
+      "type": "chords"
+    },
+    {
+      "text": "What a wonderful world this would be",
+      "type": "words"
+    },
+    {
+      "text": "F#7              B",
+      "type": "chords"
+    },
+    {
+      "text": "Now, I don't claim to be",
+      "type": "words"
+    },
+    {
+      "text": "F#7",
+      "type": "chords"
+    },
+    {
+      "text": "an A student",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "But I'm trying to be",
+      "type": "words"
+    },
+    {
+      "text": "C#7",
+      "type": "chords"
+    },
+    {
+      "text": "For maybe by being",
+      "type": "words"
+    },
+    {
+      "text": "B               C#7",
+      "type": "chords"
+    },
+    {
+      "text": "an A student, baby",
+      "type": "words"
+    },
+    {
+      "text": "C#7            F#7          B",
+      "type": "chords"
+    },
+    {
+      "text": "I can win your love for me",
+      "type": "words"
+    },
+    {
+      "text": "B                     Abm      E",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about history",
+      "type": "words"
+    },
+    {
+      "text": "E                F#      B",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much biology",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about",
+      "type": "words"
+    },
+    {
+      "text": "Abm          E",
+      "type": "chords"
+    },
+    {
+      "text": "a science book",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Don't know much about",
+      "type": "words"
+    },
+    {
+      "text": "F#7          B",
+      "type": "chords"
+    },
+    {
+      "text": "the French I took",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "But I do know that",
+      "type": "words"
+    },
+    {
+      "text": "E          B",
+      "type": "chords"
+    },
+    {
+      "text": "I love you",
+      "type": "words"
+    },
+    {
+      "text": "B                      E",
+      "type": "chords"
+    },
+    {
+      "text": "And I know that if you love me, too",
+      "type": "words"
+    },
+    {
+      "text": "F#                         B",
+      "type": "chords"
+    },
+    {
+      "text": "What a wonderful world this would be",
+      "type": "words"
+    },
+    {
+      "text": "B               Abm",
+      "type": "chords"
+    },
+    {
+      "text": "La ta ta ta ta ta ta (History)",
+      "type": "words"
+    },
+    {
+      "text": "E        F#7",
+      "type": "chords"
+    },
+    {
+      "text": "Hmm-mm-mm (Biology)",
+      "type": "words"
+    },
+    {
+      "text": "B               Abm",
+      "type": "chords"
+    },
+    {
+      "text": "La ta ta ta ta ta ta (Science book)",
+      "type": "words"
+    },
+    {
+      "text": "E      F#7",
+      "type": "chords"
+    },
+    {
+      "text": "Hmm-mm-mm (French I took)",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "E B B B x4",
+      "type": "chords"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "Yeah,  but I do know that",
+      "type": "words"
+    },
+    {
+      "text": "E          B",
+      "type": "chords"
+    },
+    {
+      "text": "I love you",
+      "type": "words"
+    },
+    {
+      "text": "B                      E",
+      "type": "chords"
+    },
+    {
+      "text": "And I know that if you love me, too",
+      "type": "words"
+    },
+    {
+      "text": "F#7",
+      "type": "chords"
+    },
+    {
+      "text": "What a wonderful world",
+      "type": "words"
+    },
+    {
+      "text": "B  F#7 B",
+      "type": "chords"
+    },
+    {
+      "text": "this would be",
+      "type": "words"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "B B E B x4",
+      "type": "chords"
+    }
+  ]
+}

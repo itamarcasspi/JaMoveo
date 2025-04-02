@@ -1,0 +1,405 @@
+{
+  "songName": "Give Me Love ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "Bbm          F#          C#  Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "Give me love    like her",
+      "type": "words"
+    },
+    {
+      "text": "Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause lately I've",
+      "type": "words"
+    },
+    {
+      "text": "F#              C#  Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "Been waking up alone",
+      "type": "words"
+    },
+    {
+      "text": "Bbm              F#              C#    Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "Paint splattered teardrops on my shirt",
+      "type": "words"
+    },
+    {
+      "text": "Bbm          F#          C#",
+      "type": "chords"
+    },
+    {
+      "text": "Told you I'd let them go",
+      "type": "words"
+    },
+    {
+      "text": "Ebm",
+      "type": "chords"
+    },
+    {
+      "text": "And that I'll fight my corner",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "Maybe tonight I'll call ya",
+      "type": "words"
+    },
+    {
+      "text": "C#                Ab/C",
+      "type": "chords"
+    },
+    {
+      "text": "After my blood   turns into alcohol",
+      "type": "words"
+    },
+    {
+      "text": "Ebm               F#   C#",
+      "type": "chords"
+    },
+    {
+      "text": "No, I just wanna hold ya",
+      "type": "words"
+    },
+    {
+      "text": "C#            Ebm     F#maj7           C#",
+      "type": "chords"
+    },
+    {
+      "text": "Give a little time to me  or burn this out",
+      "type": "words"
+    },
+    {
+      "text": "C#         Ebm      F#maj7",
+      "type": "chords"
+    },
+    {
+      "text": "We'll play hide and seek",
+      "type": "words"
+    },
+    {
+      "text": "C#",
+      "type": "chords"
+    },
+    {
+      "text": "To turn this around",
+      "type": "words"
+    },
+    {
+      "text": "C#    Ebm         F#maj7",
+      "type": "chords"
+    },
+    {
+      "text": "All I want is the taste",
+      "type": "words"
+    },
+    {
+      "text": "F#maj7               Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "That your lips allow",
+      "type": "words"
+    },
+    {
+      "text": "Bbm     Ab       F#                Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,    my, my, oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "Bbm    F#        C#                 Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,   my, my,   oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "Bbm    F#        C#               Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,   my, my,    give me love",
+      "type": "words"
+    },
+    {
+      "text": "F#           C#   Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "Give me love like never before",
+      "type": "words"
+    },
+    {
+      "text": "Bbm                     F#         C#  Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause lately I've been craving more",
+      "type": "words"
+    },
+    {
+      "text": "Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "And it's been a while",
+      "type": "words"
+    },
+    {
+      "text": "F#               C#    Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "But I still feel the same",
+      "type": "words"
+    },
+    {
+      "text": "F#         C#",
+      "type": "chords"
+    },
+    {
+      "text": "Maybe I should let you go",
+      "type": "words"
+    },
+    {
+      "text": "Ebm",
+      "type": "chords"
+    },
+    {
+      "text": "And that I'll fight my corner",
+      "type": "words"
+    },
+    {
+      "text": "F#",
+      "type": "chords"
+    },
+    {
+      "text": "Maybe tonight I'll call ya",
+      "type": "words"
+    },
+    {
+      "text": "C#                Ab/C",
+      "type": "chords"
+    },
+    {
+      "text": "After my blood   turns into alcohol",
+      "type": "words"
+    },
+    {
+      "text": "Ebm               F#   C#",
+      "type": "chords"
+    },
+    {
+      "text": "No, I just wanna hold ya",
+      "type": "words"
+    },
+    {
+      "text": "C#            Ebm     F#maj7           C#",
+      "type": "chords"
+    },
+    {
+      "text": "Give a little time to me  or burn this out",
+      "type": "words"
+    },
+    {
+      "text": "C#         Ebm      F#maj7",
+      "type": "chords"
+    },
+    {
+      "text": "We'll play hide and seek",
+      "type": "words"
+    },
+    {
+      "text": "C#",
+      "type": "chords"
+    },
+    {
+      "text": "To turn this around",
+      "type": "words"
+    },
+    {
+      "text": "C#    Ebm         F#maj7",
+      "type": "chords"
+    },
+    {
+      "text": "All I want is the taste",
+      "type": "words"
+    },
+    {
+      "text": "F#maj7               Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "That your lips allow",
+      "type": "words"
+    },
+    {
+      "text": "Bbm     Ab       F#                C#",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,    my, my, oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "C#            Ebm     F#maj7           C#",
+      "type": "chords"
+    },
+    {
+      "text": "Give a little time to me  or burn this out",
+      "type": "words"
+    },
+    {
+      "text": "C#         Ebm      F#maj7",
+      "type": "chords"
+    },
+    {
+      "text": "We'll play hide and seek",
+      "type": "words"
+    },
+    {
+      "text": "C#",
+      "type": "chords"
+    },
+    {
+      "text": "To turn this around",
+      "type": "words"
+    },
+    {
+      "text": "C#    Ebm         F#maj7",
+      "type": "chords"
+    },
+    {
+      "text": "All I want is the taste",
+      "type": "words"
+    },
+    {
+      "text": "F#maj7               Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "That your lips allow",
+      "type": "words"
+    },
+    {
+      "text": "Bbm     Ab       F#                Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,    my, my, oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "Bbm    F#        C#                 Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,   my, my,   oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "Bbm    F#        C#               Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,   my, my,    give me love",
+      "type": "words"
+    },
+    {
+      "text": "Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "Amm my my  amm my my  amm my my",
+      "type": "words"
+    },
+    {
+      "text": "Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "Oh give me love love",
+      "type": "words"
+    },
+    {
+      "text": "x12",
+      "type": "chords"
+    },
+    {
+      "text": "Bbm             F#                 C#",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,  my, my    oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "C#                                 Bbm",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,  my, my    oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "Bbm             F#                 C#",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,  my, my    oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "C#",
+      "type": "chords"
+    },
+    {
+      "text": "My, my,  my, my    oh give me love",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F# Bbm Bbm Bbm x2",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "F# Bbm Bbm Bbm x2",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "Bbm Bbm F# Bbm x2",
+      "type": "chords"
+    }
+  ]
+}

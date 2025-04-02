@@ -1,0 +1,461 @@
+{
+  "songName": "Snow ",
+  "lyrics": [
+    {
+      "text": "Intro & verse: x4",
+      "type": "words"
+    },
+    {
+      "text": "Abm                     E",
+      "type": "chords"
+    },
+    {
+      "text": "Come to decide that the things that I tried",
+      "type": "words"
+    },
+    {
+      "text": "B               F#             Abm",
+      "type": "chords"
+    },
+    {
+      "text": "Were in my life just to get high on",
+      "type": "words"
+    },
+    {
+      "text": "Abm              E",
+      "type": "chords"
+    },
+    {
+      "text": "When I sit alone come get a little known",
+      "type": "words"
+    },
+    {
+      "text": "B                      F#",
+      "type": "chords"
+    },
+    {
+      "text": "But I need more than myself this time",
+      "type": "words"
+    },
+    {
+      "text": "Abm                       E",
+      "type": "chords"
+    },
+    {
+      "text": "Step from the road to the sea to the sky",
+      "type": "words"
+    },
+    {
+      "text": "B               F#         Abm",
+      "type": "chords"
+    },
+    {
+      "text": "And I do believe what we rely on",
+      "type": "words"
+    },
+    {
+      "text": "Abm              E",
+      "type": "chords"
+    },
+    {
+      "text": "When I lay it on Come get to play it on",
+      "type": "words"
+    },
+    {
+      "text": "B              F#",
+      "type": "chords"
+    },
+    {
+      "text": "All my life to sacrifice",
+      "type": "words"
+    },
+    {
+      "text": "Abm E  B        F#     Abm E  B B/Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Hey oh   listen what I say oh",
+      "type": "words"
+    },
+    {
+      "text": "Abm   E B             F#     Abm  E  B B/Bb",
+      "type": "chords"
+    },
+    {
+      "text": "I got your Hey  oh  (now) listen what I say oh",
+      "type": "words"
+    },
+    {
+      "text": "Abm                     E",
+      "type": "chords"
+    },
+    {
+      "text": "When will I know that i really can't go",
+      "type": "words"
+    },
+    {
+      "text": "B                  F#           Abm",
+      "type": "chords"
+    },
+    {
+      "text": "To the well one more time to decide on",
+      "type": "words"
+    },
+    {
+      "text": "Abm                  E",
+      "type": "chords"
+    },
+    {
+      "text": "When it's killing me When will I really see",
+      "type": "words"
+    },
+    {
+      "text": "B                  F#",
+      "type": "chords"
+    },
+    {
+      "text": "All that I need to look inside",
+      "type": "words"
+    },
+    {
+      "text": "Abm                    E",
+      "type": "chords"
+    },
+    {
+      "text": "Come to believe that I better not leave",
+      "type": "words"
+    },
+    {
+      "text": "B             F#             Abm",
+      "type": "chords"
+    },
+    {
+      "text": "Before I get my chance to ride",
+      "type": "words"
+    },
+    {
+      "text": "Abm                   E",
+      "type": "chords"
+    },
+    {
+      "text": "When it's killing me  What do I really need",
+      "type": "words"
+    },
+    {
+      "text": "B                  F#",
+      "type": "chords"
+    },
+    {
+      "text": "All that I need to look inside",
+      "type": "words"
+    },
+    {
+      "text": "Abm E  B        F#     Abm E  B B/Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Hey oh   listen what I say oh",
+      "type": "words"
+    },
+    {
+      "text": "Abm  E B        F#     Abm  E  B B/Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Come back and Hey oh  look at what I say oh",
+      "type": "words"
+    },
+    {
+      "text": "Chorus:",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "The more I see the less I know",
+      "type": "words"
+    },
+    {
+      "text": "F#         Abm         F# E",
+      "type": "chords"
+    },
+    {
+      "text": "The more I like to let it go... hey oh whoa",
+      "type": "words"
+    },
+    {
+      "text": "B                          F#",
+      "type": "chords"
+    },
+    {
+      "text": "Deep beneath the cover of another perfect wonder",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Where it's so white as snow",
+      "type": "words"
+    },
+    {
+      "text": "B                      F#",
+      "type": "chords"
+    },
+    {
+      "text": "Privately divided by a world so undecided",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "And there's nowhere to go",
+      "type": "words"
+    },
+    {
+      "text": "B                       F#",
+      "type": "chords"
+    },
+    {
+      "text": "In between the cover of another perfect wonder",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "And it's so white as snow",
+      "type": "words"
+    },
+    {
+      "text": "B                                     F#",
+      "type": "chords"
+    },
+    {
+      "text": "Running through a field where all my tracks will",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Be concealed and there is nowhere to go",
+      "type": "words"
+    },
+    {
+      "text": "Repeat Intro",
+      "type": "words"
+    },
+    {
+      "text": "Abm                 E",
+      "type": "chords"
+    },
+    {
+      "text": "When to descend to amend for friend",
+      "type": "words"
+    },
+    {
+      "text": "B                  F#          Abm",
+      "type": "chords"
+    },
+    {
+      "text": "All the channels that have broken down",
+      "type": "words"
+    },
+    {
+      "text": "Abm                 E",
+      "type": "chords"
+    },
+    {
+      "text": "Now you bring it up I'm gonna ring it up",
+      "type": "words"
+    },
+    {
+      "text": "B                F#",
+      "type": "chords"
+    },
+    {
+      "text": "Just to hear you sing it out",
+      "type": "words"
+    },
+    {
+      "text": "Abm                       E",
+      "type": "chords"
+    },
+    {
+      "text": "Step from the road to the sea to the sky",
+      "type": "words"
+    },
+    {
+      "text": "B               F#       Abm",
+      "type": "chords"
+    },
+    {
+      "text": "And I do believe what we rely on",
+      "type": "words"
+    },
+    {
+      "text": "Abm               E",
+      "type": "chords"
+    },
+    {
+      "text": "When I lay it on  Come get to play it on",
+      "type": "words"
+    },
+    {
+      "text": "B              F#",
+      "type": "chords"
+    },
+    {
+      "text": "All my life to sacrifice",
+      "type": "words"
+    },
+    {
+      "text": "Abm E  B       F#     Abm E  B B/Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Hey oh  listen what I say oh",
+      "type": "words"
+    },
+    {
+      "text": "Abm  E B       F#     Abm  E  B B/Bb",
+      "type": "chords"
+    },
+    {
+      "text": "I got your  Hey oh  listen what I say oh",
+      "type": "words"
+    },
+    {
+      "text": "Repeat Chorus",
+      "type": "words"
+    },
+    {
+      "text": "B       F#    C#m",
+      "type": "chords"
+    },
+    {
+      "text": "I said hey yeah   Oh yeah",
+      "type": "words"
+    },
+    {
+      "text": "B   F#       C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Tell my love now Hey yeah  Oh yeah  Tell my love now",
+      "type": "words"
+    },
+    {
+      "text": "B                         F#",
+      "type": "chords"
+    },
+    {
+      "text": "People need the cover of another perfect wonder",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Where it's so white as snow",
+      "type": "words"
+    },
+    {
+      "text": "B                      F#",
+      "type": "chords"
+    },
+    {
+      "text": "Privately divided by a world so undecided",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "And there's nowhere to go",
+      "type": "words"
+    },
+    {
+      "text": "B                          F#",
+      "type": "chords"
+    },
+    {
+      "text": "Deep beneath the cover of another perfect wonder",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Where it's so white as snow",
+      "type": "words"
+    },
+    {
+      "text": "B                                        F#",
+      "type": "chords"
+    },
+    {
+      "text": "Running through the field where all my tracks will",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Be concealed and there's nowhere to go",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Abm B Abm B x2",
+      "type": "chords"
+    },
+    {
+      "text": "B   F#        C#m",
+      "type": "chords"
+    },
+    {
+      "text": "I said hey yeah   Oh yeah",
+      "type": "words"
+    },
+    {
+      "text": "B   F#       C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Tell my love now Hey yeah  Oh yeah",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Abm B Abm B x2",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "Abm B Abm B x2",
+      "type": "chords"
+    }
+  ]
+}

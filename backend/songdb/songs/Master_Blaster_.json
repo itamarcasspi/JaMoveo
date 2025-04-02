@@ -1,0 +1,549 @@
+{
+  "songName": "Master Blaster ",
+  "lyrics": [
+    {
+      "text": "Intro: x3",
+      "type": "words"
+    },
+    {
+      "text": "Cm                   Bb       Ab",
+      "type": "chords"
+    },
+    {
+      "text": "Ab       Gm       F",
+      "type": "chords"
+    },
+    {
+      "text": "Cm         Bb      Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Cm                        Bb Ab",
+      "type": "chords"
+    },
+    {
+      "text": "Everyone's feeling pretty",
+      "type": "words"
+    },
+    {
+      "text": "Ab                    Gm  F",
+      "type": "chords"
+    },
+    {
+      "text": "It's hotter than July",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "Though the world's full of problems",
+      "type": "words"
+    },
+    {
+      "text": "Cm                     Bb   Cm",
+      "type": "chords"
+    },
+    {
+      "text": "They couldn't touch us even if they tried",
+      "type": "words"
+    },
+    {
+      "text": "Cm                           Bb Ab",
+      "type": "chords"
+    },
+    {
+      "text": "From the park I hear rhythms",
+      "type": "words"
+    },
+    {
+      "text": "Ab                      Gm  F",
+      "type": "chords"
+    },
+    {
+      "text": "Marley's hot on the box",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "Tonight there will be a party",
+      "type": "words"
+    },
+    {
+      "text": "Cm                        Bb",
+      "type": "chords"
+    },
+    {
+      "text": "On the corner at the end of the block",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Didn't know you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G                       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I bet nobody ever told you that you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G           F",
+      "type": "chords"
+    },
+    {
+      "text": "You would be jammin' and jammin'",
+      "type": "words"
+    },
+    {
+      "text": "Ebm      Cm",
+      "type": "chords"
+    },
+    {
+      "text": "And jammin', jam on",
+      "type": "words"
+    },
+    {
+      "text": "Cm                                  Bb Ab",
+      "type": "chords"
+    },
+    {
+      "text": "They want us to join their fighting",
+      "type": "words"
+    },
+    {
+      "text": "Ab                    Gm  F",
+      "type": "chords"
+    },
+    {
+      "text": "But our answer today",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "Is to let all our worries",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Like the breeze through our fingers",
+      "type": "words"
+    },
+    {
+      "text": "Bb   Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Slip away",
+      "type": "words"
+    },
+    {
+      "text": "Cm                         Bb Ab",
+      "type": "chords"
+    },
+    {
+      "text": "Peace has come to Zimbabwe",
+      "type": "words"
+    },
+    {
+      "text": "Ab                             Gm  F",
+      "type": "chords"
+    },
+    {
+      "text": "Third World's right on the one",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "Now's the time for celebration",
+      "type": "words"
+    },
+    {
+      "text": "Cm          Bb",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause we've only just begun",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Didn't know you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G    F    Ebm            Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I bet nobody ever told you that you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G    F    Ebm           Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Bet you nobody ever told you that you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G     F    Ebm           Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I know nobody told you that you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G       F        Ebm          Cm",
+      "type": "chords"
+    },
+    {
+      "text": "We're jammin',jammin', jammin', jam on",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Cm Cm Gm Gm Cm Bb Ab Gm F Cm Bb Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Cm                    Bb Ab",
+      "type": "chords"
+    },
+    {
+      "text": "You ask me am I happy",
+      "type": "words"
+    },
+    {
+      "text": "Ab                     Gm  F",
+      "type": "chords"
+    },
+    {
+      "text": "Well as matter of fact",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "I can say that I'm ecstatic",
+      "type": "words"
+    },
+    {
+      "text": "Cm              Bb   Cm",
+      "type": "chords"
+    },
+    {
+      "text": "'Cause we all just made a pact",
+      "type": "words"
+    },
+    {
+      "text": "Cm                          Bb Ab",
+      "type": "chords"
+    },
+    {
+      "text": "We've agreed to get together",
+      "type": "words"
+    },
+    {
+      "text": "Ab                       Gm  F",
+      "type": "chords"
+    },
+    {
+      "text": "Joined as children in Jah",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "When you're moving in the positive",
+      "type": "words"
+    },
+    {
+      "text": "Cm                       Bb",
+      "type": "chords"
+    },
+    {
+      "text": "Your destination is the brightest star",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "You didn't know that you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G      F    Ebm           Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I bet you nobody ever told you that you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G     F   Ebm  Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Oh oh oh oh oh  oh   you",
+      "type": "words"
+    },
+    {
+      "text": "G7                         F",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G    F       Ebm       Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Don't you stop the music, oh no",
+      "type": "words"
+    },
+    {
+      "text": "G7",
+      "type": "chords"
+    },
+    {
+      "text": "(We're in the middle of the makin's",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "Of the master blaster jammin')",
+      "type": "words"
+    },
+    {
+      "text": "G    F  Ebm   Cm          G7",
+      "type": "chords"
+    },
+    {
+      "text": "Na na   na na naaa  no no no no noo",
+      "type": "words"
+    },
+    {
+      "text": "F                     G    F  Ebm    Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Nobody told you   oh oh oh oh oh  oh   you",
+      "type": "words"
+    },
+    {
+      "text": "G7",
+      "type": "chords"
+    },
+    {
+      "text": "Would be jammin' until",
+      "type": "words"
+    },
+    {
+      "text": "F    G F Ebm",
+      "type": "chords"
+    },
+    {
+      "text": "The break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "I bet you if someone approached you",
+      "type": "words"
+    },
+    {
+      "text": "G7",
+      "type": "chords"
+    },
+    {
+      "text": "Yesterday to tell you that",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "You would be jammin'you would not believe",
+      "type": "words"
+    },
+    {
+      "text": "F",
+      "type": "chords"
+    },
+    {
+      "text": "It because you never thought that",
+      "type": "words"
+    },
+    {
+      "text": "G      F  Ebm",
+      "type": "chords"
+    },
+    {
+      "text": "You would be jammin'",
+      "type": "words"
+    },
+    {
+      "text": "Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Oh oh oh oh oh",
+      "type": "words"
+    },
+    {
+      "text": "G7                        F",
+      "type": "chords"
+    },
+    {
+      "text": "Jammin' 'til the break of dawn",
+      "type": "words"
+    },
+    {
+      "text": "G F Ebm    Cm",
+      "type": "chords"
+    },
+    {
+      "text": "Oh ohhhh,  you may as well believe",
+      "type": "words"
+    },
+    {
+      "text": "G7",
+      "type": "chords"
+    },
+    {
+      "text": "What you are feeling",
+      "type": "words"
+    },
+    {
+      "text": "F                        G",
+      "type": "chords"
+    },
+    {
+      "text": "Because you feel your body jammin'",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "Cm Cm Cm Ab x2",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "Cm Ab Cm Cm x2",
+      "type": "chords"
+    }
+  ]
+}

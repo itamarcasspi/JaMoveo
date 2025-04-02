@@ -1,0 +1,525 @@
+{
+  "songName": "Hey Soul Sister ",
+  "lyrics": [
+    {
+      "text": "Intro:",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "E    B       C#m      A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey, hey, heyyyyyy, heyyyyyy",
+      "type": "words"
+    },
+    {
+      "text": "E               B",
+      "type": "chords"
+    },
+    {
+      "text": "Your lipstick stains",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "On the front lobe of my",
+      "type": "words"
+    },
+    {
+      "text": "C#m              A",
+      "type": "chords"
+    },
+    {
+      "text": "Left side brain",
+      "type": "words"
+    },
+    {
+      "text": "A                 E",
+      "type": "chords"
+    },
+    {
+      "text": "I knew I wouldn't forget you",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "And so I went and let you",
+      "type": "words"
+    },
+    {
+      "text": "C#m   A B",
+      "type": "chords"
+    },
+    {
+      "text": "Blow my mind",
+      "type": "words"
+    },
+    {
+      "text": "E              B",
+      "type": "chords"
+    },
+    {
+      "text": "Your sweet moonbeam",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "The smell of you in every",
+      "type": "words"
+    },
+    {
+      "text": "C#m             A",
+      "type": "chords"
+    },
+    {
+      "text": "Single dream I dream",
+      "type": "words"
+    },
+    {
+      "text": "A             E",
+      "type": "chords"
+    },
+    {
+      "text": "I knew when we collided",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "You're the one I have decided",
+      "type": "words"
+    },
+    {
+      "text": "C#m   A B",
+      "type": "chords"
+    },
+    {
+      "text": "Who's one of my kind",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey soul sister",
+      "type": "words"
+    },
+    {
+      "text": "B              E",
+      "type": "chords"
+    },
+    {
+      "text": "Ain't that Mr. mister",
+      "type": "words"
+    },
+    {
+      "text": "B      A",
+      "type": "chords"
+    },
+    {
+      "text": "On the radio, stereo",
+      "type": "words"
+    },
+    {
+      "text": "B                  E          B",
+      "type": "chords"
+    },
+    {
+      "text": "The way you move ain't fair, you know",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey soul sister",
+      "type": "words"
+    },
+    {
+      "text": "B             E",
+      "type": "chords"
+    },
+    {
+      "text": "I don't wanna miss",
+      "type": "words"
+    },
+    {
+      "text": "B      A            B    E",
+      "type": "chords"
+    },
+    {
+      "text": "A single thing you do    tonight",
+      "type": "words"
+    },
+    {
+      "text": "B       C#m        A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey, hey, heyyyyyy, heyyyyyy",
+      "type": "words"
+    },
+    {
+      "text": "E             B",
+      "type": "chords"
+    },
+    {
+      "text": "Just in time",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so glad you have",
+      "type": "words"
+    },
+    {
+      "text": "C#m                 A",
+      "type": "chords"
+    },
+    {
+      "text": "A one track mind like me",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "You gave my life direction",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "A game show love connection",
+      "type": "words"
+    },
+    {
+      "text": "C#m          A   B",
+      "type": "chords"
+    },
+    {
+      "text": "We can't deny   hayy  hayyyyyy",
+      "type": "words"
+    },
+    {
+      "text": "E            B",
+      "type": "chords"
+    },
+    {
+      "text": "I'm so obsessed",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "My heart is bound to beat",
+      "type": "words"
+    },
+    {
+      "text": "C#m              A",
+      "type": "chords"
+    },
+    {
+      "text": "Right out my untrimmed chest",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "I believe in you",
+      "type": "words"
+    },
+    {
+      "text": "B",
+      "type": "chords"
+    },
+    {
+      "text": "Like a virgin, you're Madonna",
+      "type": "words"
+    },
+    {
+      "text": "C#m             A    B",
+      "type": "chords"
+    },
+    {
+      "text": "And I'm always gonna wanna blow your mind",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey soul sister",
+      "type": "words"
+    },
+    {
+      "text": "B              E",
+      "type": "chords"
+    },
+    {
+      "text": "Ain't that Mr. mister",
+      "type": "words"
+    },
+    {
+      "text": "B      A",
+      "type": "chords"
+    },
+    {
+      "text": "On the radio, stereo",
+      "type": "words"
+    },
+    {
+      "text": "B                  E          B",
+      "type": "chords"
+    },
+    {
+      "text": "The way you move ain't fair, you know",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey soul sister",
+      "type": "words"
+    },
+    {
+      "text": "B             E",
+      "type": "chords"
+    },
+    {
+      "text": "I don't wanna miss",
+      "type": "words"
+    },
+    {
+      "text": "B      A            B    E",
+      "type": "chords"
+    },
+    {
+      "text": "A single thing you do    tonight",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "The way you can cut a rug",
+      "type": "words"
+    },
+    {
+      "text": "B                               C#m",
+      "type": "chords"
+    },
+    {
+      "text": "Watching you is the only drug I need",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "So gangster, I'm so thug",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "You're the only one I'm dreaming of",
+      "type": "words"
+    },
+    {
+      "text": "E                            B",
+      "type": "chords"
+    },
+    {
+      "text": "You see, I can be myself now finally",
+      "type": "words"
+    },
+    {
+      "text": "C#m",
+      "type": "chords"
+    },
+    {
+      "text": "In fact there's nothing I can't be",
+      "type": "words"
+    },
+    {
+      "text": "C#m/B               A   B",
+      "type": "chords"
+    },
+    {
+      "text": "I want the world to see you'll be  with me",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey soul sister",
+      "type": "words"
+    },
+    {
+      "text": "B              E",
+      "type": "chords"
+    },
+    {
+      "text": "Ain't that Mr. mister",
+      "type": "words"
+    },
+    {
+      "text": "B      A",
+      "type": "chords"
+    },
+    {
+      "text": "On the radio, stereo",
+      "type": "words"
+    },
+    {
+      "text": "B                  E          B",
+      "type": "chords"
+    },
+    {
+      "text": "The way you move ain't fair, you know",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey soul sister",
+      "type": "words"
+    },
+    {
+      "text": "B             E",
+      "type": "chords"
+    },
+    {
+      "text": "I don't wanna miss",
+      "type": "words"
+    },
+    {
+      "text": "B      A              B",
+      "type": "chords"
+    },
+    {
+      "text": "A single thing you do tonight",
+      "type": "words"
+    },
+    {
+      "text": "A",
+      "type": "chords"
+    },
+    {
+      "text": "Hey soul sister",
+      "type": "words"
+    },
+    {
+      "text": "B             E",
+      "type": "chords"
+    },
+    {
+      "text": "I don't wanna miss",
+      "type": "words"
+    },
+    {
+      "text": "B      A            B    E",
+      "type": "chords"
+    },
+    {
+      "text": "A single thing you do    tonight",
+      "type": "words"
+    },
+    {
+      "text": "B       C#m      Aadd9    B",
+      "type": "chords"
+    },
+    {
+      "text": "Hey, hey, heyyyyyy, heyyyyyy",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Tonight",
+      "type": "words"
+    },
+    {
+      "text": "B       C#m      Aadd9    B",
+      "type": "chords"
+    },
+    {
+      "text": "Hey, hey, heyyyyyy, heyyyyyy",
+      "type": "words"
+    },
+    {
+      "text": "E",
+      "type": "chords"
+    },
+    {
+      "text": "Tonight",
+      "type": "words"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "E B E E x2",
+      "type": "chords"
+    },
+    {
+      "text": "Bridge:",
+      "type": "words"
+    },
+    {
+      "text": "E B E E x2",
+      "type": "chords"
+    },
+    {
+      "text": "Ending:",
+      "type": "words"
+    },
+    {
+      "text": "E E E B x2",
+      "type": "chords"
+    }
+  ]
+}
