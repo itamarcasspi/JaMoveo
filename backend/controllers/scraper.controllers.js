@@ -133,7 +133,7 @@ export const songList = async (req, res) => {
       },
     });
     //log the search response
-    onsole.log("searchResponse.data:", searchResponse.data);
+    console.log("searchResponse.data:", searchResponse.data);
     console.log("searchResponse.status:", searchResponse.status);
     console.log("searchResponse.statusText:", searchResponse.statusText);
     console.log("searchResponse.headers:", searchResponse.headers);
