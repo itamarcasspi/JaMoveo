@@ -132,7 +132,7 @@ export const songList = async (req, res) => {
         TE: "trailers",
       },
     });
-    //log the search response
+    //Log the search response
     console.log("searchResponse.data:", searchResponse.data);
     console.log("searchResponse.status:", searchResponse.status);
     console.log("searchResponse.statusText:", searchResponse.statusText);
