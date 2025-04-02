@@ -1,4 +1,4 @@
-*# JaMoveo - Moveo Band Web Application
+# JaMoveo - Moveo Band Web Application
 
 ## Project Description
 
