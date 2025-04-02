@@ -4,13 +4,19 @@
 
 JaMoveo is a web application designed to enhance the musical rehearsal experience for the Moveo band. It allows band members to log in, specify their instruments, and participate in rehearsal sessions controlled by an admin. The admin can search for songs, display chords and lyrics, and manage the flow of the rehearsal.
 
+## Deployment
+
+Deployed using Render services- server might spindown on inactivity causing slower reaction on first login.
+[Deployed Application Link here](https://jamoveo-qvvw.onrender.com/)
+
 ## Demo
+
 1. Player reistration:
-   
+
   ![player-screen](https://github.com/user-attachments/assets/797b8d7a-3fd0-4ee2-b413-e9d8dc68663b)
 
 2. Admin registration:
-   
+
    ![admin-screen](https://github.com/user-attachments/assets/c781f84b-58d6-4c4c-81ff-82e2b985bf27)
 3. Admin search:
    * Search function only available to admin. Song list data retrieved by web scraping using Axios API.
