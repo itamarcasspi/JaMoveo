@@ -110,6 +110,7 @@ export const songList = async (req, res) => {
   try {
     //compose search url
     const searchUrl = `https://www.tab4u.com/resultsSimple?tab=songs&q=${query}`;
+    console.log(`serachUrl[${searchUrl})`)
     const searchResponse = await axios.get(searchUrl, {
       headers: {
         "User-Agent":
@@ -131,8 +132,11 @@ export const songList = async (req, res) => {
         TE: "trailers",
       },
     });
-    const $search = cheerio.load(searchResponse.data);
+    console.log(`serachResponse[${searchResponse})`);
 
+    const $search = cheerio.load(searchResponse.data);
+    console.log(`$search[${$search})`);
+    
     const songLinks = $search(".ruSongLink")
       .map((i, element) => {
         return $search(element).attr("href");
@@ -145,6 +149,9 @@ export const songList = async (req, res) => {
     $search(".sNameI19").each((i, el) => {
       songNames.push($search(el).text().trim().replace("/", ""));
     });
+    console.log(`artistNames[${artistNames}`)
+    console.log(`songNames[${songNames}`)
+
 
     $search(".aNameI19").each((i, el) => {
       artistNames.push($search(el).text().trim());
