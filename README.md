@@ -161,6 +161,7 @@ Where query1 and query2 .. are posible search queries argument for the scraper.
 2. The scraper will create a folder called *songdb* which will have both *SongsDb.json* and a folder called *songs*
 3. Each query searches Tab4u.com and returns all matches.
 4. After recording all matches in the SongsDb.json (will serve as the index manager for all the db) it will load each song into a JSON file in the *songs* directory
+5. To use the songs you have scraped, move the entire *songdb* directory to backend/ 
   
 All the queries are executed using AXIOS API.
   
